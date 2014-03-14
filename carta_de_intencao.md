@@ -22,17 +22,26 @@ Além dos livros e das canetinhas para colorir, o participante também receberá
 
 A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos de folga fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
 
-Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha namorada, amigos e todos também gostaram.
+Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha família, amigos e todos também gostaram.
 
 * Livros de mandalas para colorir
 * Inspiração circular
 * Partilha circular
 * Peculiaridades da pessoalidade
 
+O principal foco do projeto é estimular um primeiro contato com o desenho/pintura de mandalas. Durante uma das aulas de arteterapia andei comentando com algumas colegas da arteterapia e a Andressa Vagnin comentou: "Elas precisam circular".
 
-O principal foco do projeto é estimular um primeiro contato com o desenho/pintura de mandalas despertando assim um.
+## Minha estratégia
+
+Então pensei, vou iniciar um processo de enviar para as pessoas queridas e depois vou pedir para que elas façam o mesmo para outras pessoas. Aí surgiu a ideia de espalhar mais livros.
+
+Estava apenas emprestando os meus primeiros três mas aí comprei mais 10 para seguir com mais pessoas em diversos lugares do Brasil. Até o momento que escrevo já levei os 3 livros e temos participantes de: São Miguel do Oeste, São José do Cedro, Anchieta e Francisco Beltrão. Agora têm alguns em Chapecó e outros em Passo Fundo. Esta semana peguei outros aqui em Francisco Beltrão e estou enviando para outros amigos especiais de Brasília.
+
+Acredito que até o final do estágio existirão mais alguns outros livros circulando puramente por minha influência, pois meus amigos já se disporam a comprar mais alguns e também canetinhas entre outros.
 
 ## Justificativa
+
+Durante a matéria de arteterapia a professora Graziella Ormezzano nos propôs um primeiro ensaio de pesquisa sobre o público que tinhamos intenção em trabalhar. Trabalhei e durante todo o curso fiquei fielmente acreditando que iria conseguir trabalhar com os "workaholics" (viciados em trabalho). Estudei e pesquisei sobre o assunto, entrei em contato com a doutora ------- (barbara king?) que é Phd no assunto. Ela escreveu vários livros e trabalha profissionalmente com o assunto. Vou usar as literaturas dela no meu referencial teórico.
 
 * Sistema capitalista
 * Alienação e inversão dos sentidos
@@ -42,25 +51,38 @@ O principal foco do projeto é estimular um primeiro contato com o desenho/pintu
 
 ## Público
 
-* Adultos?
-* Crianças?
-* Mulheres?
-* Viciados?
+O público que pretendo atingir é um tanto abstrato analisando o modelo estratégico do trabalho. Dessa forma, encaro o público em um grupo colaborativo e outro ainda passivo a dinâmica proposta.
+
+### Persuadidos (ajudados): alienados do sistema
+
+Aqueles que não percebem, não cultuam, nem culturam ou se interessam por arte. Aqueles que estão presos nos seus trabalhose vidas e que de alguma forma foram persuadidos pelo sistema esquecendo de olhar pra dentro. São essas pessoas que não possuem nenhuma hora do dia/mes ou ano de introspecção, auto-reflexão ou espiritualidade.
+
+
+### Facilitadores (ajudantes): desalienados do sistema
+
+Naturalmente os livros serão encaminhados e se conectarão as pessoas desalienadas. Aquelas que aproveitam a vida e vivem como bem entendem e como acham que merecem. São essas que irão fazer os grandes vínculos e ajudar as pessoas a fortalecer o processo de fazer as mandalas circularem.
+
+São os ajudantes que irão fortalecer a dinâmica dos participantes em geral.
+
 
 ## Linguagem arteterapeutica usada
 
 * artes plásticas
+* silêncio
 * música
 
 ## Método de pesquisa-ação
 
+Como a proposta é diferente de uma terapia tradicional e não estou tendo contato com as pessoas diretamente, estou planejando fazer uma pesquisa complementar específica. A ideia é fazer um questionário rico em introspecção e focado em levantar dados para entender a eficácia da prática de pintar mandalas mesmo que sem a compania de um arteterapeuta.
+
 * Grupo focal
 * Estratégica
 
-
+## Estatística
 
 # Referêncial teórico
 
 * dicionário dos símbolos
+* doutora barbara
 
 # Recursos
