@@ -64,6 +64,27 @@ Naturalmente os livros serão encaminhados e se conectarão as pessoas desaliena
 
 São os ajudantes que irão fortalecer a dinâmica dos participantes em geral.
 
+### Quadro de participantes
+
+Este quadro está em atualização constante pois as mandalas estão circulando.
+
+--------|-------|-------------
+Apelido | Idade | Profissão
+--------|-------|-------------
+Jônatas | 27    | Programador
+Tânia   | ...   | Bióloga
+Eliége  | ...   | Artista
+Ariadne | ...   | Doutora em Geografia
+Vinícius| ...   | Cursando automação industrial
+Mercia  | ...   | Advogada
+Melissa | ...   | Doutoranda em direito - professora universitária
+Daiana  | ...   | Arteterapeuta
+Louis   | ...   | ?
+Joyce   | ...   | Geógrafa
+Mazzocco| ...   | Pedagogo (atua no setor de refrigeração elétrica)
+David   | ...   | Gerente de projetos
+Vanice  | ...   | Terapeuta ocupacional
+Filha da maria elena | ... | Estudante
 
 ## Linguagem arteterapeutica usada
 
@@ -80,9 +101,28 @@ Como a proposta é diferente de uma terapia tradicional e não estou tendo conta
 
 ## Estatística
 
+Como o grupo é totalmente distribuído a ideia é construir um questionário com algumas questões interessantes de auto/introspecção. Abaixo segue a lista de perguntas que estou elaborando:
+
+* Quantas mandalas você pintou?
+* Você comentou com alguém que havia pintado?
+* Como as mandalas chegaram até você?
+* Você se sentiu melhor após ter terminado a mandala?
+* Você pintou? [ ] solo [ ] grupo
+* Você gostaria de desenhar uma mandala também?
+* Você passou o livro adiante? 
+* Quantos dias você ficou com o livro?
+* Aonde você pintou as mandalas? [ ] casa [ ] acampamento [ ] pub
+* Que horas você pintou?
+* Se você tiver a oportunidade irá indicar a mandala terapia?
+
+
+
+
+
 # Referêncial teórico
 
 * dicionário dos símbolos
 * doutora barbara
+* edgar morin ( cultura de massa )
 
 # Recursos
