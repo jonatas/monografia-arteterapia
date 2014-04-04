@@ -115,6 +115,18 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 * Que horas você pintou?
 * Se você tiver a oportunidade irá indicar a mandala terapia?
 
+## Usando o bem para o mal
+
+As redes sociais são ferramentas boas mas as pessoas deturpam elas. No caso de fato as redes são cheias de coisas interessantes, mas muitas vezes se tornam viciantes e criam vários tipos de problemas ao invés de realmente ajudar as pessoas. Dessa forma, vejo a tecnologia ser usada para o "mal", no sentido de estar prejudicando o próprio ser humano.
+
+
+
+## Usando o mal para o bem
+
+Da mesma maneira a rede social integra as pessoas e as coisas. Dessa forma ao invés de me deparar com listas de emails e questionários chatos, pretendo criar um grupo na rede social mais disseminada atualmente Facebook para conversar e dialogar com as pessoas sobre a mandala terapia e a beleza do processo terapêutico.
+
+Meu foco é adicionar apenas os participantes e trabalhar em um modelo mais informal, permitindo que as pessoas fluam em suas conclusões ao invés de [ ] marcar aqui ou [ ] aqui.
+
 
 
 
@@ -122,7 +134,11 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 # Referêncial teórico
 
 * dicionário dos símbolos
-* doutora barbara
-* edgar morin ( cultura de massa )
+* KILLING, Barbara. The Respectable Addicts, 1997.
+* MORIN, Edgar. Cultura de Massa.
+* COUTINHO, Nelson A. F. A Mandala Viva: O Caminho de Ida Rolf e Carl Jung. São Paulo: Escrituras, 2008.
+* BOLEN, Jean Shinoda. O Milionésimo Círculo: Como transformar a nós mesmas e ao mundo. Um guia para Círculos de Mulheres. Tradução Elisabetta Recine. São Paulo: TRIOM, 2003.
+* JUNG, Carl Gustav. O Homem e seus Símbolos. Rio de Janeiro: Nova Fronteira, 2002.
+
 
 # Recursos
