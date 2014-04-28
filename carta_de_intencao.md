@@ -68,23 +68,7 @@ São os ajudantes que irão fortalecer a dinâmica dos participantes em geral.
 
 Este quadro está em atualização constante pois as mandalas estão circulando.
 
---------|-------|-------------
-Apelido | Idade | Profissão
---------|-------|-------------
-Jônatas | 27    | Programador
-Tânia   | ...   | Bióloga
-Eliége  | ...   | Artista
-Ariadne | ...   | Doutora em Geografia
-Vinícius| ...   | Cursando automação industrial
-Mercia  | ...   | Advogada
-Melissa | ...   | Doutoranda em direito - professora universitária
-Daiana  | ...   | Arteterapeuta
-Louis   | ...   | ?
-Joyce   | ...   | Geógrafa
-Mazzocco| ...   | Pedagogo (atua no setor de refrigeração elétrica)
-David   | ...   | Gerente de projetos
-Vanice  | ...   | Terapeuta ocupacional
-Filha da maria elena | ... | Estudante
+- Criado [grupo no facebook](https://www.facebook.com/groups/646801458744586  "Ainda é secreto precisa de convite.")
 
 ## Linguagem arteterapeutica usada
 
@@ -103,7 +87,7 @@ Como a proposta é diferente de uma terapia tradicional e não estou tendo conta
 
 Como o grupo é totalmente distribuído a ideia é construir um questionário com algumas questões interessantes de auto/introspecção. Abaixo segue a lista de perguntas que estou elaborando:
 
-* Quantas mandalas você pintou?
+* Quantas mandalas você pintou? (ok)
 * Você comentou com alguém que havia pintado?
 * Como as mandalas chegaram até você?
 * Você se sentiu melhor após ter terminado a mandala?
@@ -114,6 +98,13 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 * Aonde você pintou as mandalas? [ ] casa [ ] acampamento [ ] pub
 * Que horas você pintou?
 * Se você tiver a oportunidade irá indicar a mandala terapia?
+* Achou difícil?
+* Relaxou?
+* Ansioso por terminar?
+* Você analisou a mandala para criar as sequencias de cores?
+* Você não gostou   de alguma mandala que pintou?
+* Você escolheu a mandala para pintar por alguma razão, como "fácil" ou difícil, ou com mais detalhes, espaços maiores ou menores....
+* Para quantas pessoas você passou o livro.?
 
 ## Usando o bem para o mal
 
