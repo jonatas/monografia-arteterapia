@@ -88,14 +88,14 @@ Como a proposta é diferente de uma terapia tradicional e não estou tendo conta
 Como o grupo é totalmente distribuído a ideia é construir um questionário com algumas questões interessantes de auto/introspecção. Abaixo segue a lista de perguntas que estou elaborando:
 
 * Quantas mandalas você pintou? (ok)
-* Você comentou com alguém que havia pintado?
-* Como as mandalas chegaram até você?
-* Você se sentiu melhor após ter terminado a mandala?
-* Você pintou? [ ] solo [ ] grupo
-* Você gostaria de desenhar uma mandala também?
-* Você passou o livro adiante? 
+* Como as mandalas chegaram até você? [ok]
+* Você pintou? [ ] solo [ ] grupo [ok]
+* Aonde você pintou as mandalas? [ ] casa [ ] acampamento [ ] pub [ok]
+* Você comentou com alguém que havia pintado? [ok]
+* Você se sentiu melhor após ter terminado a mandala? [ok]
+* Você gostaria de desenhar uma mandala também? [ok]
+* Você passou o livro adiante?  []
 * Quantos dias você ficou com o livro?
-* Aonde você pintou as mandalas? [ ] casa [ ] acampamento [ ] pub
 * Que horas você pintou?
 * Se você tiver a oportunidade irá indicar a mandala terapia?
 * Achou difícil?
