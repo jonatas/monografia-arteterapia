@@ -94,7 +94,7 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 * Você comentou com alguém que havia pintado? [ok]
 * Você se sentiu melhor após ter terminado a mandala? [ok]
 * Você gostaria de desenhar uma mandala também? [ok]
-* Você passou o livro adiante?  []
+* Você passou o livro adiante?
 * Quantos dias você ficou com o livro?
 * Que horas você pintou?
 * Se você tiver a oportunidade irá indicar a mandala terapia?
@@ -108,9 +108,7 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 
 ## Usando o bem para o mal
 
-As redes sociais são ferramentas boas mas as pessoas deturpam elas. No caso de fato as redes são cheias de coisas interessantes, mas muitas vezes se tornam viciantes e criam vários tipos de problemas ao invés de realmente ajudar as pessoas. Dessa forma, vejo a tecnologia ser usada para o "mal", no sentido de estar prejudicando o próprio ser humano.
-
-
+As redes sociais são ferramentas boas mas as pessoas desvirtuam seu uso. No caso de fato as redes são cheias de coisas interessantes, mas muitas vezes se tornam viciantes e criam vários tipos de problemas ao invés de realmente ajudar as pessoas. Dessa forma, vejo a tecnologia ser usada para o "mal", no sentido de estar prejudicando o próprio ser humano.
 
 ## Usando o mal para o bem
 
@@ -124,7 +122,7 @@ Meu foco é adicionar apenas os participantes e trabalhar em um modelo mais info
 
 # Referêncial teórico
 
-* dicionário dos símbolos
+* Dicionário dos Símbolos - Jean Chevalier
 * KILLING, Barbara. The Respectable Addicts, 1997.
 * MORIN, Edgar. Cultura de Massa.
 * COUTINHO, Nelson A. F. A Mandala Viva: O Caminho de Ida Rolf e Carl Jung. São Paulo: Escrituras, 2008.
