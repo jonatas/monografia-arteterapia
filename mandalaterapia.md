@@ -8,9 +8,21 @@
 
 --
 
-# Introdução a Mandalaterapia
+# Introdução
 
-Mandala significa círculo.
+## A mandala
+
+Mandala significa círculo. Segundo o dicionário OxFord: _uma figura representando o universo em Hindu e simbolismo budista. [PSYCOANALISE] como um símbolo em um sonho, representando a busca do sonhador pela plenitude e auto conhecimento._
+
+
+_Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino._
+
+
+A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. 
+
+The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
+
+
 
 
 ## Mandalas circular
@@ -43,7 +55,6 @@ O principal foco do projeto é estimular um primeiro contato com o desenho/pintu
 
 
 ## Como está acontecendo
-
 
 
 

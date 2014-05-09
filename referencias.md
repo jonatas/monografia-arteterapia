@@ -79,7 +79,7 @@ Carl Jung, the father of analytical psychology, found that mandalas can be produ
 
     Localização: 162
 
-The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
+* [x] The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
 
     Localização: 184
 Note: The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable. no judges... Edit
@@ -141,7 +141,7 @@ Direct interpretation to the client should be avoided. Instead, the client shoul
 
 ## The New Oxford American Dictionary by Oxford - [livro digital](https://kindle.amazon.com/work/the-new-oxford-american-dictionary-ebook/B00BRTFK6C/B0053VMNY2)
 
-man·da·la  n. a geometric figure representing the universe in Hindu and Buddhist symbolism.  [PSYCHOANALYSIS] such a symbol in a dream, representing the dreamer's search for completeness and self-unity.
+* [x] man·da·la  n. a geometric figure representing the universe in Hindu and Buddhist symbolism.  [PSYCHOANALYSIS] such a symbol in a dream, representing the dreamer's search for completeness and self-unity.
 
     Localização: 568276
 
@@ -162,11 +162,11 @@ A forma primordial é, efetivamente, menos o círculo do que a esfera, represent
 
 ### Definição de mandala
 
-A mandala é literalmente um círculo, ainda que seu desenho seja complexo e muitas vezes se encerre em uma moldura quadrata. Como o *iantra* (de uso emblemático), mas de modo menos esquemático, a mandala é ao mesmo tempo um resumo da manifestação espacial, uma imagem do mundo, além de ser a representação de a atualiação de porências dividas; é assim uma imagem psicagógica, propria para conduzir que contempla à iluminação.
+A mandala é literalmente um círculo, ainda que seu desenho seja complexo e muitas vezes se encerre em uma moldura quadrada. Como o *iantra* (de uso emblemático), mas de modo menos esquemático, a mandala é ao mesmo tempo um resumo da manifestação espacial, uma imagem do mundo, além de ser a representação de a atualiação de porências dividas; é assim uma imagem psicagógica, propria para conduzir que contempla à iluminação.
 
     Página 585
 
-Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino.
+* [x] Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino.
 
     Página 586
 
