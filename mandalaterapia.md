@@ -1,6 +1,12 @@
 # Mandalaterapia
 
-Intervenção arte terapêutica através da colorização e criação de mandalas. Mandala terapia 
+## Intervenção arte terapêutica através da colorização e criação de mandalas.
+
+### Jônatas Davi Paganini
+
+### UNOESC - São Miguel do Oeste, 2014
+
+--
 
 Mandala significa círculo.
 
