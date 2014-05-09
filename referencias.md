@@ -152,27 +152,33 @@ man·da·la  n. a geometric figure representing the universe in Hindu and Buddhi
 
 Segundo símbolo fundamental (de acordo com CHAS, 24), no grupo a que pertecem o centro, a cruz e o quadrado.
 Em primeiro lugar, o círculo é um ponto estendido; participa da perfeição do ponto. Por conseguinte, o ponto e o círculo, possuem propriedades simbólicas comuns: perfeição, homogeneirdade, ausência de distinção ou divisão... O movimento circular é perfeito, imutável, sem começo nem fim, e nem variações; o que habilita a simbolizar o tempo. Define-se o tempo como uma sucessão contínua e aos outros.... O círculo simbolizará também o céu, de movimento circular inalterável.
-    Pagina 250
+
+    Página 250
 
 
 A forma primordial é, efetivamente, menos o círculo do que a esfera, representação do mundo. Todavia o círculo é a taça, ou a projeção desta esfera. Por isso o paraíso terrestre era círcular.  A passagem do quadrado do círculo -- na mandala, por exemplo, é da cristalização espacial ao nirvana, à indeterminação original; passagem da Terra ao Céu, segundo a terminologia chinesa. O que confirma a simbólica ocidental e cristã.
-    Pagina 251
+
+    Página 251
 
 ### Definição de mandala
 
 A mandala é literalmente um círculo, ainda que seu desenho seja complexo e muitas vezes se encerre em uma moldura quadrata. Como o *iantra* (de uso emblemático), mas de modo menos esquemático, a mandala é ao mesmo tempo um resumo da manifestação espacial, uma imagem do mundo, além de ser a representação de a atualiação de porências dividas; é assim uma imagem psicagógica, propria para conduzir que contempla à iluminação.
-    Pagina 585
+
+    Página 585
 
 Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino.
+
     Página 586
 
 
 C.G. Jung recorre à imagem do mandala para designar uma _ representação simbólica da psique, cuja essência nos é desconhecida._ Ele observou, assim como seus discípulos, que essas imagens são utilizadas para _consolidar o ser interior ou para favorecer a meditação em profundidade. A comtemplação de um mandala supostamente inspira a serenidade, o sentimento de que a vida reencontrou seu sentido e sua ordem. O mandala produz o mesmo efeito quando aparece espontaneamente nos sonhos do homem moderno que ignora essas tradições religiosas. As formas redondas do mandala simbolizam em geral a integridade natural, enquanto a forma quadrangular representa a tomada de consciência iminente do centro._. O mandala possui uma eficácia dupla: conservar a ordem psíquica, se ela existe; restabelecê-la se desapareceu. Nesse caso, exerce uma função estimulante e criadora (JUNS, 213-215,227) 
-    Pagina 586
+
+    Página 586
 
 ## Imagens do Inconsciente - Nise da Silveira - 1981 - Editora ALHAMBRA
 
 Aplicando à terapêutica ocupacional as descobertas de Jung abrem-se novas perspectivas para este método. O exercício de atividades poderá enriquecer-se de importante significação. Compreender-se-à o valor terapêutico  que irá adquirir, na esquisofrenia, a proposta, ao doente, de atividades já vivenciadas e utilizadas pelo homem primitivo para exprimir suas violentas emoções.
 
 Em vez dos impulsos arcaicos exeteriorizarem desabridamente, lhe oferecemos o declive que a espécie humana sulcou durante milênios para exprimi-los: dança, representações mímicas, pintura, modelagem, música. Será o mais simples e o mais eficaz.
-    Pagina 102
+
+    Página 102
