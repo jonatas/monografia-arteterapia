@@ -1,114 +1,149 @@
 ## Man and His Symbols by Carl Gustav Jung - [livro digital](https://kindle.amazon.com/work/man-symbols-carl-gustav-jung-ebook/B000AIBU7E/B006V3E2MC)
 
 To Jungians the dream is not a kind of standardized cryptogram that can be decoded by a glossary of symbol meanings. It is an integral, important, and personal expression of the individual unconscious. It is just as “real” as any other phenomenon attaching to the individual.
-    Location: 13437 - 13726
+
+    Localização: 13437 - 13726
 
 Man uses the spoken or written word to express the meaning of what he wants to convey. His language is full of symbols, but he also often employs signs or images that are not strictly descriptive.
-    Location: 24979 - 25175
+
+    Localização: 24979 - 25175
 
 Because there are innumerable things beyond the range of human understanding, we constantly use symbolic terms to represent concepts that we cannot define or fully comprehend. This is one reason why all religions employ symbolic language or images. But this conscious use of symbols is only one aspect of a psychological fact of great importance: Man also produces symbols unconsciously and spontaneously, in the form of dreams.
-    Location: 27455 - 27883
+
+    Localização: 27455 - 27883
 
 ## Mandala Symbolism and Techniques: Innovative Approaches for Professionals by Susan Buchalter - [livro digital](https://kindle.amazon.com/work/mandala-symbolism-techniques-innovative-professionals-ebook/B008PDPDC4/B00CQ8OC3A)
 
 
 The mandala represents the circle of life and wholeness. It reminds us of the impermanence of life and the need to accept change. The mandala provides a sense of calm and comfort, focus and insight.
-    Location: 86
+
+    Localização: 86
 
 Mandala art provides clients the opportunity to stay in the moment instead of allowing their thoughts to wander. Creativity, decision making, and problem solving are enhanced. Drawing mandalas helps individuals organize their ideas and goals. Psychological growth is developed, and a sense of inner balance is restored. Clients are better able to express feelings, thoughts, hopes, fears, and dreams when they create mandalas; their stress level and anxiety decreases.
-    Location: 90
+
+    Localização: 90
 
 The mandala is usually brightly colored and often eye catching. Mandala work helps support integration of one’s inner and outer worlds. It aids in personal growth, transformation, and expansion of self-awareness.
-    Location: 95
+
+    Localização: 95
 
 Mandala work enables clients to focus on their inner thoughts instead of dwelling on external preoccupations.
-    Location: 98
+
+    Localização: 98
 
 “Mandalas are an outward projection of the psyche, representing a safe refuge and movement towards psychological growth and healing” (Jung 1973).
-    Location: 103
+
+    Localização: 103
 
 Clients tend to feel more comfortable working within the circle because it is structured and defined. They frequently feel comfortable when boundaries are set.
-    Location: 105
+
+    Localização: 105
 
 Many people feel freer to reveal true feelings when drawing a mandala, and less likely to hide behind superficial images such as vases of flowers and landscapes.
-    Location: 107
+
+    Localização: 107
 
 The more ideas the therapist has at his or her fingertips, the easier it will be to lead a successful therapeutic group. Therapists may modify, change, and combine ideas at their discretion.
-    Location: 118
+
+    Localização: 118
 
 Mandala is a Sanskrit term that is believed to translate to “circle” in English. Used as an aid to meditation, mandalas are thought to originate in conjunction with ancient Indian beliefs concerning the importance of the center as a sacred space from which a cosmic power can enter a figure. Mandalas have historically been used by Hindus and Buddhists as aids for meditation, although the mandala has taken many forms throughout history. It is associated with many cultures and is a part of various religions, from ancient times to the present.
-    Location: 135
+
+    Localização: 135
 
 The Tibetan word for mandala is Kyil-Khor, which translates to “center and surrounding,” and is traditionally used by Buddhists during sadhana meditation. Sadhana meditation helps individuals reach various levels of spiritual realization, or enlightenment.
-    Location: 140
+
+    Localização: 140
 
 is called dul-tson-kyil-khor and translates to “mandala of colored powders.” Creating
-    Location: 144
+
+    Localização: 144
 Note: fazer mandala de areia Edit
 The mandala is also a sacred symbol for Native Americans. For the shamans, the center of the circle, or hoop, holds sacred healing power. In Christianity and Islam, the circle is used in various divine symbols such as the Celtic cross, the halo, and the dome.
-    Location: 147
+
+    Localização: 147
 
 The circle is one of the most immediately recognizable shapes in the universe and was recognized by medieval scholars as a divine or perfect shape. It is the basis of so many structures in the universe, from atoms and cells through stars and galaxies. It promotes relaxation because there are no boundaries, it is the most symmetrical two dimensional shape in existence, and unlike squares or rectangles, the circle can be rotated in any direction and remains the same. The circle does not have distracting corners or complex points so it is easy to focus on the center.
-    Location: 149
+
+    Localização: 149
 
 In this way, mandalas need not conform to any single stereotype of appearance. Each individual can become the center of their own universe, or mandala, and from there demonstrate through art the thoughts and feelings that act as the essential particles of that individual’s personal universe.
-    Location: 155
+
+    Localização: 155
 
 While Buddhist monks must follow very strict and detailed instructions concerning how mandalas must be constructed and which colors must be used in which circumstances, mandalas that are used for therapy have no limitations.
-    Location: 157
+
+    Localização: 157
 
 Carl Jung, the father of analytical psychology, found that mandalas can be products of the unconscious. They are irrational and almost magical in nature, and, in his book Memories, Dreams and Reflections, Jung described the mandala as “the exponent of all paths. It is the path to the center, of individuation” (Jung and Jaffe 1962). As a natural part of the universe, the mandala symbol is also a natural part of each person’s psyche.
-    Location: 162
+
+    Localização: 162
 
 The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
-    Location: 184
+
+    Localização: 184
 Note: The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable. no judges... Edit
 The mandalas serve as a compilation of feelings, problems, concerns, and solutions that are exclusively the client’s own. Images serve as vehicles, which facilitates communication, growth, and insight.
-    Location: 192
+
+    Localização: 192
 
 With our busy schedules, it might be difficult to think about who we are, our strengths and weaknesses, our drives and personalities, our habits and values. Many people just aren’t inclined to spend too much time on self-reflection. Even when personal feedback is presented to us, we’re not always open to it.
-    Location: 1514
+
+    Localização: 1514
 
 Mandala painting allows for spontaneity and freedom. It is a medium that gives clients the ability to experiment with color, style, and movement. Paint is particularly useful for clients who need to break free from rigidity and structure. It allows for flexibility and flow in artwork.
-    Location: 2000
+
+    Localização: 2000
 
 Group mandala work is beneficial because socialization and communication skills are enhanced. When individuals work together a new element is added to mandala design. The colors, symbols, and details are even more complex and exciting.
-    Location: 2692
+
+    Localização: 2692
 
 Meditation helps individuals find a sense of calm, inner peace, and balance. Some research shows that meditation techniques may improve immune system functioning, allergies, asthma, cancer, depression, fatigue, heart disease, sleep problems, and high blood pressure.
-    Location: 2967
+
+    Localização: 2967
 
 Mandala work helps clients understand the importance of being mindful. Mindfulness increases self-esteem, self-awareness, and self-acceptance. It improves concentration and creativity. When clients are in the “here and now,” they have more physical stamina; they are more confident and their moods are more even; they have better ability to concentrate and memory improves.
-    Location: 2969
+
+    Localização: 2969
 
 They are in control as they put their thoughts and dreams on paper, sometimes solely within the mandala. The author is in charge of what he writes and how he writes;
-    Location: 3631
+
+    Localização: 3631
 
 Mandalas are popular and versatile art therapy tools. Jung prominently advocated the spontaneous emergence of the mandala as a symbol for the Self (1968). Art therapy clinicians typically have clients draw mandalas in a contemplative state, similar to meditation.
-    Location: 3866
+
+    Localização: 3866
 
 Kellogg pioneered research in the use of mandalas in art therapy. She developed her theory based on recurring design schemas while, “collecting, observing and classifying thousands of patients’ mandala drawings” during the 1970s (Cox 2003). To support her research she standardized the materials and instructions offered to clients attending the Maryland Psychiatric Research Center. Each client used a 36 or 48 set of oil pastels and drawing paper with a pre-drawn mandala centered on it. They were instructed to work in an open, meditative manner, allowing images, shapes, or patterns to emerge intuitively.
-    Location: 3873
+
+    Localização: 3873
 
 Kellogg’s theory is a model for transformational growth that is dynamic and flexible. It supports the Jungian concept of individuation as a spiral; it indicates continued growth as different goals are achieved and allows for the shifting of perspectives and meaning as individuals progress through a reflective life.
-    Location: 3916
+
+    Localização: 3916
 
 Kellogg developed theory relating to use of color in mandalas, matching much of her symbolism with the function of color in nature.
-    Location: 3925
+
+    Localização: 3925
 
 The cards are used in combination with the creation of individual mandalas. When a subject draws a mandala the image may not fit neatly into only one archetypal stage.
-    Location: 3931
+
+    Localização: 3931
 
 The combination of stages in one mandala may indicate that an individual is experiencing more than one stage or is transitioning between stages.
-    Location: 3933
+
+    Localização: 3933
 
 Direct interpretation to the client should be avoided. Instead, the client should be empowered to find her or his own meaning through contemplation of the mandalas created and dialogue around the functioning of the emergent imagery.
-    Location: 3964
+
+    Localização: 3964
 
 ## The New Oxford American Dictionary by Oxford - [livro digital](https://kindle.amazon.com/work/the-new-oxford-american-dictionary-ebook/B00BRTFK6C/B0053VMNY2)
 
 man·da·la  n. a geometric figure representing the universe in Hindu and Buddhist symbolism.  [PSYCHOANALYSIS] such a symbol in a dream, representing the dreamer's search for completeness and self-unity.
-    Location: 568276
+
+    Localização: 568276
 
 ## Dicionário de Símbolos - Mitos, sonhos, constumes, gestos, formas, figuras, cores e números - Jean Chevalier, Alain Gheerbrant
 
