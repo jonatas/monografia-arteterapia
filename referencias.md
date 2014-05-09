@@ -135,4 +135,9 @@ Na tradição tibetana, o mandala é o guia imaginário e provisório da medita�
 C.G. Jung recorre à imagem do mandala para designar uma _ representação simbólica da psique, cuja essência nos é desconhecida._ Ele observou, assim como seus discípulos, que essas imagens são utilizadas para _consolidar o ser interior ou para favorecer a meditação em profundidade. A comtemplação de um mandala supostamente inspira a serenidade, o sentimento de que a vida reencontrou seu sentido e sua ordem. O mandala produz o mesmo efeito quando aparece espontaneamente nos sonhos do homem moderno que ignora essas tradições religiosas. As formas redondas do mandala simbolizam em geral a integridade natural, enquanto a forma quadrangular representa a tomada de consciência iminente do centro._. O mandala possui uma eficácia dupla: conservar a ordem psíquica, se ela existe; restabelecê-la se desapareceu. Nesse caso, exerce uma função estimulante e criadora (JUNS, 213-215,227) 
     Pagina 586
 
+## Imagens do Inconsciente - Nise da Silveira - 1981 - Editora ALHAMBRA
 
+Aplicando à terapêutica ocupacional as descobertas de Jung abrem-se novas perspectivas para este método. O exercício de atividades poderá enriquecer-se de importante significação. Compreender-se-à o valor terapêutico  que irá adquirir, na esquisofrenia, a proposta, ao doente, de atividades já vivenciadas e utilizadas pelo homem primitivo para exprimir suas violentas emoções.
+
+Em vez dos impulsos arcaicos exeteriorizarem desabridamente, lhe oferecemos o declive que a espécie humana sulcou durante milênios para exprimi-los: dança, representações mímicas, pintura, modelagem, música. Será o mais simples e o mais eficaz.
+    Pagina 102
