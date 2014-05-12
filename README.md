@@ -5,7 +5,7 @@ Minha monografia da minha pós graduação em Arteterapia, educação e saúde -
 
 Este repositório está em andamento pois estou trabalhando na monografia. Trata-se de "Mandalaterapia".
 
-O arquivo [de referências](/referencias) está organizado para fornecer as referências de forma organizada por material que estou me referênciando.
+O arquivo [de referências](/referencias.md) está organizado para fornecer as referências de forma organizada por material que estou me referênciando.
 
 O arquivo ["mandalaterapia.md"](/mandalaterapia.md) contém a monografia em si.
 
