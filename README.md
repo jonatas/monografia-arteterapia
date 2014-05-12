@@ -3,7 +3,7 @@
 
 Minha monografia da minha pós graduação em Arteterapia, educação e saúde - UNOESC - SC. Conclusão em 2014.
 
-Este repositório está em andamento pois estou trabalhando na monografia. Trata-se de "Mandalaterapia".
+Este repositório está em andamento pois estou trabalhando na monografia. Trata-se de [Mandalaterapia](/mandalaterapia.md).
 
 O arquivo [de referências](/referencias.md) está organizado para fornecer as referências de forma organizada por material que estou me referênciando.
 
