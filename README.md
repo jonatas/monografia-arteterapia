@@ -1,7 +1,16 @@
-monografia-arteterapia
-======================
+## Monografia
 
-Minha monografia da minha pós graduação em Arteterapia, educação e saúde - UNOESC - SC
 
-Este repositório está em andamento pois estou trabalhando na monografia.
+Minha monografia da minha pós graduação em Arteterapia, educação e saúde - UNOESC - SC. Conclusão em 2014.
 
+Este repositório está em andamento pois estou trabalhando na monografia. Trata-se de [Mandalaterapia](/mandalaterapia.md).
+
+O arquivo [de referências](/referencias.md) está organizado para fornecer as referências de forma organizada por material que estou me referênciando.
+
+O arquivo ["mandalaterapia.md"](/mandalaterapia.md) contém a monografia em si.
+
+O arquivo acima foi iniciado apartir da ["carta de intenção"](/carta_de_intencao.md) que foi criado anteriormente. Então possívelmente terá alguma frase no sentido "farei" e não no sentido "fiz".
+
+Para entender no que e quando estou trabalhando veja o [histórico de atividades]("/commits/master").
+
+Atenciosamente, Jônatas Davi Paganini.
