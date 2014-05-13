@@ -56,8 +56,51 @@ O principal foco do projeto é estimular um primeiro contato com o desenho/pintu
 
 ## Como está acontecendo
 
+O processo não tem barreiras e nem muitas regras. A ideia é que quem se interessar em ter acesso terá. Não existe uma restrição quanto ao número de mandalas, nem mínimo e nem máximo. Também não existem restrições quanto a múltiplos autores incrementarem as pinturas da mesma mandala.
 
+## Workaholismo
 
+O vício no trabalho trata-se de um transtorno obcessivo compulsivo (TOC) por trabalhar.
+
+Com desculpas como a pressão da carreira profissional ou mesmo o desejo de crescer profissionalmente, a pessoa se nega a acreditar que esteja viciado, e começa a ficar doente pela ansiedade de trabalhar ou mesmo pelo stress causado pela intensidade com o mesmo.
+
+Ficar horas a mais trabalhando também influi em quantas horas a pessoa vai dormir e o acúmulo de poucas horas de sono também vai causar mais stress e fatiga.
+
+## Nem sempre os esforçados são víciados no trabalho
+
+Enquanto os esforçados estão com um objetivo a cumprir, os _workaholics_ estão em busca de manter-se trabalhando, sentindo a necessidade de continuar mesmo sem necessidade.
+
+As disputas por posições em grandes empresas criam um ambiente competitivo o que também pode colaborar com esta doença.
+
+Diferente da pessoa que está se esforçando, tentando ser melhor, o _workaholic_ tende as seguintes características[3][3]:
+
+* Perda do interesse por hobbies e diversão
+* Dificuldade de relaxar
+* Perda das atividades sociais
+* Trabalhar sem comida ou sono adequado
+* Trabalhar mesmo extremamente cansado ou doente
+* Perda da habilidade de relaxar
+* Inabilidade de acreditar que os colegas ou subordinados podem realizar suas tarefas
+
+## O tempo e a energia
+
+O ser humano é diferente das máquinas e precisa renovar suas energias.
+
+    Like time, energy is finite; but unlike time, it is renewable. [1][1]
+
+Pesquisadores [descobriram][5] na década de 50 que temos um ciclo de aproximadamente 90 minutos(entre 80 e 120 minutos) de sono, no qual alterna-se entre dormindo e acordado. Uma década depois foi descoberto que este relógio biológico também funciona nas noites de vigília.
+
+A diferença entre a noite de vigília e o dia, é que durante o dia o corpo passa por um estado de alerta para um estado de fatiga psicológica durante este mesmo ciclo de tempo. A cada ciclo, o corpo pede para dar uma 'respirada' mas muitas vezes é recebe café e açucar como resposta durante o horário de trabalho.
+
+    The difference is that during the day we move from a state of alertness progressively into physiological fatigue approximately every 90 minutes. Our bodies regularly tell us to take a break, but we often override these signals and instead stoke ourselves up with caffeine, sugar and our own emergency reserves — the stress hormones adrenaline, noradrenaline and cortisol. [1]
+
+    A recent Harvard study estimated that sleep deprivation costs American companies $63.2 billion a year in lost productivity. [1]
+
+    The Stanford researcher Cheri D. Mah found that when she got male basketball players to sleep 10 hours a night, their performances in practice dramatically improved: free-throw and three-point shooting each increased by an average of 9 percent.[1]
+
+A pessoa que entra neste ritmo acelerado tende a comportar-se como quem tem problemas com abuso de substâncias, em uma esfera de necessidade. De fato, este sentimento gera uma ansiedade que acaba atrapalhando o próprio trabalho.
+
+    Breathe, stretch, and schedule in time to restore your mind, body and soul each and every day.  This small investment in time will not only benefit you, it will increase your creativity and productivity on the job. [4]
 
 ## A estratégia
 

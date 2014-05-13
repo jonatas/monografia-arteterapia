@@ -1,3 +1,14 @@
+# Referências teóricas
+
+Aquelas que possuem **Localização** ao invés de **Página**, tratam-se de versões digitais, aonde o tamanho da página pode ser ajustado conforme o desejo do leitor. Por isso estão utilizando localização.
+
+Aquelas referencias que estiverem 
+
+* [x] marcadas com checkbox
+
+é por que já estão fazendo parte do corpo da monografia. Ou em tradução ou em citação.
+
+
 ## Man and His Symbols by Carl Gustav Jung - [livro digital](https://kindle.amazon.com/work/man-symbols-carl-gustav-jung-ebook/B000AIBU7E/B006V3E2MC)
 
 To Jungians the dream is not a kind of standardized cryptogram that can be decoded by a glossary of symbol meanings. It is an integral, important, and personal expression of the individual unconscious. It is just as “real” as any other phenomenon attaching to the individual.
@@ -182,3 +193,54 @@ Aplicando à terapêutica ocupacional as descobertas de Jung abrem-se novas pers
 Em vez dos impulsos arcaicos exeteriorizarem desabridamente, lhe oferecemos o declive que a espécie humana sulcou durante milênios para exprimi-los: dança, representações mímicas, pintura, modelagem, música. Será o mais simples e o mais eficaz.
 
     Página 102
+
+
+## Referências de website
+
+#### 1
+Disponível em <http://www.nytimes.com/2013/02/10/opinion/sunday/relax-youll-be-more-productive.html>. Acesso em 25 jul. 2013.
+
+#### 2
+
+Disponível em <http://english.ahram.org.eg/NewsContent/5/25/38757/Arts--Culture/Visual-Art/Art-therapy-works-its-way-through-Egyptian-culture.aspx>. Acesso em 25 jul. 2013.
+
+#### 3
+
+Disponível em <http://www.projectknow.com/research/work-addiction/>. Acesso em 25 jul. 2013.
+
+#### 4
+
+Disponível em <http://www.airhart-therapy.com/2013/03/07/finding-balance/>. Acesso em 25 jul. 2013.
+
+####  5
+
+Disponível em <http://en.wikipedia.org/wiki/Basic\_rest\_activity\_cycle>. Acesso em 25 jul. 2013.
+
+####  6
+
+Disponível em <http://en.wikipedia.org/wiki/Workaholic>. Acesso em 25 jul. 2013.
+
+####  7
+
+Disponível em <http://www.limerickleader.ie/lifestyle/entertainment-arts/therapy-for-today-s-workaholic-1-2177789>. Acesso em 25 jul. 2013.
+
+####  8
+
+KILLINGER, Barbara. Disponível em <http://www.drbarbarakillinger.com/>. Acesso em 25 jul. 2013.
+
+####  9
+
+Disponível em <https://peepcode.com/products/productivity-for-programmers>. Acesso em 25 jul. 2013.
+
+####  10
+
+Educação Estética, Imaginário e Arteterapia - Graciela Ormezzano
+
+####  11
+
+PAIN, Sara;  JARREAU, Gladys. **Teoria e técnica da Arte-Terapia**.
+
+####  12
+
+Disponível em <http://alana.org.br/semana-sem-telas-2013>. Acesso em 25 jul. 2013.
+
