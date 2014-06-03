@@ -112,7 +112,7 @@ Durante os primeiros meses da pós graduação, acreditei fielmente que iria con
 
 Pensando sobre estes tópicos, tive a plena certeza que o público em questão não toparia participar do estágio. Tanto por falta de tempo quanto por muito trabalho, as desculpas apareceriam e dificilmente conseguiria atingir estas pessoas.
 
-## Público da pesquisa
+## Público alvo
 
 Analisando estes aspectos, resolvi mudar um pouco a forma de ver o público e a forma que iria interagir com essas pessoas tão ocupadas e sem tempo.
 
