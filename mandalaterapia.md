@@ -21,36 +21,6 @@ _Na tradição tibetana, o mandala é o guia imaginário e provisório da medita
 _A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável. _(Tradução livre. BUCHALTER, Suzan. Localização 162).
 
 
-# Mandalas circular
-
-
-O projeto está acontecendo de forma distribuída. As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
-
-Um dos maiores objetivos é enviar os livros de mandalas para colorir via correspondência e este será o primeiro contato com os participantes.
-
-Além dos livros e das canetinhas para colorir, o material vem dentro de uma pequena bolsa feita especialmente para as mandalas. A bolsa foi confeccionada artesanalmente específica para esta finalidade. Ela cabe exatamente o livro e as canetinhas. O material é de feltro e tem o objetivo de exprimir a proposta do projeto e também proporcionar um primeiro impacto caloroso com o participante.
-
-As únicas recomendações foram: assinar com o nome e a data. Então enviar para uma pessoa de seus vínculos que aceite o regulamento e queira participar do projeto.
-
-As regulamentações acabaram ficando na teoria, mas todas as pessoas que estiveram com os livros respeitaram e fizeram uso consciente do material, assim como compartilharam com os outros que também era uma das intenções.
-
-## De onde surgiu a ideia
-
-A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos livres fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
-
-Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha família, amigos e todos também gostaram.
-
-* Livros de mandalas para colorir
-* Inspiração circular
-* Partilha circular
-* Peculiaridades da pessoalidade
-
-O principal foco do projeto é estimular um primeiro contato com o desenho/pintura de mandalas. Durante uma das aulas de arteterapia andei comentando com algumas colegas da arteterapia e a colega Andressa Vagnin comentou: "Elas precisam circular".
-
-
-## Como está acontecendo
-
-O processo não tem barreiras e nem muitas regras. A ideia é que quem se interessar em ter acesso terá. Não existe uma restrição quanto ao número de mandalas, nem mínimo e nem máximo. Também não existem restrições quanto a múltiplos autores incrementarem as pinturas da mesma mandala.
 
 ## Workaholismo
 
@@ -120,6 +90,34 @@ Pensando sobre estes tópicos, tive a plena certeza que o público em questão n
 
 Analisando estes aspectos, resolvi mudar um pouco a forma de ver o público e a forma que iria interagir com essas pessoas tão ocupadas e sem tempo.
 
+O projeto está acontecendo de forma distribuída. As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
+
+Um dos maiores objetivos é enviar os livros de mandalas para colorir via correspondência e este será o primeiro contato com os participantes.
+
+Além dos livros e das canetinhas para colorir, o material vem dentro de uma pequena bolsa feita especialmente para as mandalas. A bolsa foi confeccionada artesanalmente específica para esta finalidade. Ela cabe exatamente o livro e as canetinhas. O material é de feltro e tem o objetivo de exprimir a proposta do projeto e também proporcionar um primeiro impacto caloroso com o participante.
+
+As únicas recomendações foram: assinar com o nome e a data. Então enviar para uma pessoa de seus vínculos que aceite o regulamento e queira participar do projeto.
+
+As regulamentações acabaram ficando na teoria, mas todas as pessoas que estiveram com os livros respeitaram e fizeram uso consciente do material, assim como compartilharam com os outros que também era uma das intenções.
+
+## De onde surgiu a ideia
+
+A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos livres fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
+
+Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha família, amigos e todos também gostaram.
+
+* Livros de mandalas para colorir
+* Inspiração circular
+* Partilha circular
+* Peculiaridades da pessoalidade
+
+O principal foco do projeto é estimular um primeiro contato com o desenho/pintura de mandalas. Durante uma das aulas de arteterapia andei comentando com algumas colegas da arteterapia e a colega Andressa Vagnin comentou: "Elas precisam circular".
+
+
+## Como está acontecendo
+
+O processo não tem barreiras e nem muitas regras. A ideia é que quem se interessar em ter acesso terá. Não existe uma restrição quanto ao número de mandalas, nem mínimo e nem máximo. Também não existem restrições quanto a múltiplos autores incrementarem as pinturas da mesma mandala.
+
 
 ### Quadro de participantes
 
@@ -136,6 +134,7 @@ Como a proposta é diferente de uma terapia tradicional e não estou tendo conta
 
 * Grupo focal
 * Estratégica
+
 
 ## Estatística
 
