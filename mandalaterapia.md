@@ -176,7 +176,7 @@ Como a proposta é diferente de uma terapia tradicional e não existe contato co
 
 ## Estatística
 
-Como o grupo é totalmente distribuído a ideia é construir um questionário com algumas questões interessantes de auto/introspecção. Abaixo segue a lista de perguntas que estou elaborando:
+Como o grupo é totalmente distribuído a ideia é construir um questionário com algumas questões interessantes de auto/introspecção. Abaixo segue a lista de perguntas para coletar respostas.
 
 * Quantas mandalas você pintou? (ok)
 * Como as mandalas chegaram até você? [ok]
@@ -196,6 +196,8 @@ Como o grupo é totalmente distribuído a ideia é construir um questionário co
 * Você não gostou   de alguma mandala que pintou?
 * Você escolheu a mandala para pintar por alguma razão, como "fácil" ou difícil, ou com mais detalhes, espaços maiores ou menores....
 * Para quantas pessoas você passou o livro.?
+
+    As perguntas com [ok] já foram questionadas.
 
 ## Usando o bem para o mal
 
@@ -219,13 +221,42 @@ Considera-se importante enfatizar que a experiência é de cada pessoa, e dessa 
 
 # Cronograma de atividades
 
-------+---------------------------------------------------
- data | objetivo
-------+---------------------------------------------------
-08/06 | entrega do cronograma e acompanhamento do projeto
-20/06 | apresentar a preparação do material do estágio
-08/07 | entrega da primeira versão para o orientador
-08/08 | entrega da versão final da monografia
+|-------|------------------------------------------------------------------------------
+|  Data | Objetivo                                                                    |
+|-------|------------------------------------------------------------------------------
+| 08/06 | Entrega do cronograma e acompanhamento do projeto                           |
+| 08/07 | Entrega da primeira versão para o orientador                                |
+| 12/07 | Recebimento do feedback do orientador sobre a monografia                    |
+| 15/07 | Envio da primeira versão corrigida conforme a disponibilidade do orientador |
+| 20/07 | Recolher todos os livros de mandalas e fazer o registro referente a estes   |
+| 08/08 | Entrega da versão final da monografia                                       |
+
+Sendo que para estas entregas ficam aqui as seguintes importâncias:
+
+## Primeira entrega - 08/06
+
+* Entrega do cronograma
+* Apresentação do estado da arte e direcionamento das atividades
+* Explorar e levantar aspectos faltantes da monografia
+
+## Segunda entrega - 08/07
+
+* Apresentação formal do TCC para o orientador
+* Assimilar a resolução de todos os itens anteriormente requeridos
+* Apresentar modelo do painel das mandalas
+
+## Terceira entrega - 15/07
+
+* Enviar versão corrigida
+* Dentro das normas ABNT
+* Com comentários traduzidos
+
+## Quarta entrega - 08/08
+
+* Versão oficial final
+* Adicionar capa e contra capa
+* Adicionar agradecimentos e epígrafe
+* Organizar anexos para entregar junto
 
 
 # Referêncial teórico
