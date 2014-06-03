@@ -18,7 +18,7 @@ Mandala significa círculo. Segundo o dicionário OxFord: _uma figura representa
 _Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino._
 
 
-A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. 
+A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável.
 
 The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
 
@@ -42,7 +42,7 @@ As regulamentações acabaram ficando na teoria, mas todas as pessoas que estive
 
 ## De onde surgiu a ideia
 
-A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos de folga fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
+A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos livres fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
 
 Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha família, amigos e todos também gostaram.
 
