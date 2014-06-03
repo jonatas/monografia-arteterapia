@@ -18,25 +18,19 @@ Mandala significa círculo. Segundo o dicionário OxFord: _uma figura representa
 _Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino._
 
 
-A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável.
-
-The mandala serves as a safe vehicle to express unconscious as well as conscious issues and beliefs. Creative expression through mandala art provides the individual with the freedom to represent his inner and outer world in any way he chooses. There are no judgments and the client is told that however he chooses to draw is perfectly acceptable.
+_A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável. _(Tradução livre. BUCHALTER, Suzan. Localização 162).
 
 
+# Mandalas circular
 
 
-## Mandalas circular
-
-
-Uma diferença do projeto, está acontecendo de forma distribuída.
-
-As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
+O projeto está acontecendo de forma distribuída. As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
 
 Um dos maiores objetivos é enviar os livros de mandalas para colorir via correspondência e este será o primeiro contato com os participantes.
 
-Além dos livros e das canetinhas para colorir, o material vem dentro de uma pequena bolsa feita especialmente para as mandalas. A bolsa foi confeccionada artesanalmente específica para esta finalidade. Ela cabe exatamente o livro e as canetinhas e foi o material mais delicado e interessante que pude utilizar para expressar a proposta do projeto e também proporcionar um primeiro impacto caloroso.
+Além dos livros e das canetinhas para colorir, o material vem dentro de uma pequena bolsa feita especialmente para as mandalas. A bolsa foi confeccionada artesanalmente específica para esta finalidade. Ela cabe exatamente o livro e as canetinhas. O material é de feltro e tem o objetivo de exprimir a proposta do projeto e também proporcionar um primeiro impacto caloroso com o participante.
 
-As únicas recomendações que dei foi: assinar com o nome e a data. Então enviar para uma pessoa de seus vínculos que aceite o regulamento e queira participar do projeto.
+As únicas recomendações foram: assinar com o nome e a data. Então enviar para uma pessoa de seus vínculos que aceite o regulamento e queira participar do projeto.
 
 As regulamentações acabaram ficando na teoria, mas todas as pessoas que estiveram com os livros respeitaram e fizeram uso consciente do material, assim como compartilharam com os outros que também era uma das intenções.
 
@@ -112,7 +106,7 @@ Acredito que até o final do estágio existirão mais alguns outros livros circu
 
 ## Justificativa
 
-Durante a matéria de arteterapia a professora Graziella Ormezzano nos propôs um primeiro ensaio de pesquisa sobre o público que tinhamos intenção em trabalhar. Trabalhei e durante todo o curso fiquei fielmente acreditando que iria conseguir trabalhar com os "workaholics" (viciados em trabalho). Estudei e pesquisei sobre o assunto, entrei em contato com a doutora ------- (barbara king?) que é Phd no assunto. Ela escreveu vários livros e trabalha profissionalmente com o assunto. Vou usar as literaturas dela no meu referencial teórico.
+Durante a matéria de arteterapia a professora Graziella Ormezzano nos propôs um primeiro ensaio de pesquisa sobre o público que tinhamos intenção em trabalhar. Durante os primeiros meses da pós graduação, acreditei fielmente que iria conseguir trabalhar com os "workaholics" (viciados em trabalho). Estudei e pesquisei sobre o assunto, entrei em contato com a doutora Barbara King que é Phd no assunto. Dentro da linha de estudo alvo, os principais aspectos eram:
 
 * Sistema capitalista
 * Alienação e inversão dos sentidos
@@ -120,21 +114,16 @@ Durante a matéria de arteterapia a professora Graziella Ormezzano nos propôs u
 * Workaholismo
 * Falta de tempo
 
+Pensando sobre estes tópicos, tive a plena certeza que o público em questão não toparia participar do estágio. Tanto por falta de tempo quanto por muito trabalho, as desculpas apareceriam e dificilmente conseguiria atingir estas pessoas.
+
 ## Público da pesquisa
 
-O público que pretendo atingir é um tanto abstrato analisando o modelo estratégico do trabalho. Dessa forma, encaro o público em um grupo colaborativo e outro ainda passivo a dinâmica proposta.
+Analisando estes aspectos, resolvi mudar um pouco a forma de ver o público e a forma que iria interagir com essas pessoas tão ocupadas e sem tempo.
 
-Passivos são aqueles que não percebem, não cultuam, nem culturam ou se interessam por arte. Aqueles que estão presos nos seus trabalhose vidas e que de alguma forma foram persuadidos pelo sistema esquecendo de olhar pra dentro. São essas pessoas que não possuem nenhuma hora do dia/mes ou ano de introspecção, auto-reflexão ou espiritualidade.
-
-Colaborativos são aqueles que naturalmente os livros serão encaminhados e se conectarão à pessoas que não fazem parte do grupo acima. Aquelas que aproveitam a vida e vivem como bem entendem e como acham que merecem. São essas que irão fazer os grandes vínculos e ajudar as pessoas a fortalecer o processo de fazer as mandalas circularem.
-
-São os colaborativos que irão fortalecer a dinâmica dos participantes em geral.
 
 ### Quadro de participantes
 
-Este quadro está em atualização constante pois as mandalas estão circulando.
-
-- Criado [grupo no facebook](https://www.facebook.com/groups/646801458744586  "Ainda é secreto precisa de convite.")
+O quadro de participantes está em  constante atualização pois as mandalas estão circulando e o controle está sendo feito através de um [grupo fechado no facebook](https://www.facebook.com/groups/646801458744586  "Ainda é secreto precisa de convite.").
 
 ## Linguagem arteterapeutica usada
 
