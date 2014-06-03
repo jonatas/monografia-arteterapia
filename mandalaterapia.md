@@ -20,6 +20,39 @@ _Na tradição tibetana, o mandala é o guia imaginário e provisório da medita
 
 _A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável. _(Tradução livre. BUCHALTER, Suzan. Localização 162).
 
+## A Arteterapia
+
+Arteterapia é um tratamento psicoterapeutico no qual o principal meio de interação é a arte. Sendo este um meio de expressividade, a arteterapia passa a ser um meio de comunicação e expressividade por parte dos clientes. Ajudando as pessoas a aliviar o stress e também explorar os diversos aspectos de sua personalidade.
+
+A arteterapia integra técnicas psicoterapeutas com o processo criativo e melhora a saúde mental e o bem estar.
+
+Através do processo criativo é possível trabalhar com a saúde mental e emocional do indivíduo como ser, indiferente da idade. Acreditando nesta razão, é possível entender como a arteterapia pode ser uma ferramenta para resolver conflitos e problemas, aprender a lidar com relacionamento interpessoal e o próprio comportamento.
+
+Além de reduzir o stress melhora a autoestima e serve como lição de autoconhecimento.
+
+### Quem usa?
+
+A arteterapia tem sido usado em uma série de desordens mentais e stress psicológico. Geralmente é usada com outras técnicas em conjunto, como terapia comportamental e terapia em grupos. A arteterapia é utilizada principalmente com:
+
+* Adultos com níveis elevados de stress
+* Crianças com problemas de comportamento social em casa ou na escola
+* Pessoas com problemas de saúde mental
+* Pessoas que sofrem de alienação mental grave
+* Crianças ou adultos que sofreram algum tipo de trauma mental
+
+
+### Como funciona?
+
+O arteterapeuta deve usufruir de vários métodos incluindo pintura, desenho, escultura e colagem no processo terapeutico. Diferente de uma aula de arte, o foco terapêutico está na junção do sentimento, criatividade e percepção. O processo não está tão focado na qualidade estética ou técnica utilizada, mas nos sentimentos e na expressividade aplicada no trabalho proposto.
+
+A ênfase primária da arteterapia não é apenas o imaginário com a técnica, mas uma junção de sentimentos, ideias, pensamentos e imagens que serão triviais para a experiência.
+
+
+### Origem da arteterapia
+
+Apesar da arte ser utilizada a milhares de anos, a arteterapia foi formalizada apenas no século XX. Observou-se que as pessoas que sofrem de doenças mentais sentem facilidade de expressar-se através de desenhos e outras formas de expressão artística, e esta observação direcionou os estudos desta nova área como estratégias para a exploração dos recursos mentais e formas de iteração mais cognitivas com os clientes.
+
+Dessa maneira, a arte tornou-se uma parte campos terapêuticos e tem sido usada desde então como uma técnica de tratamento.
 
 
 ## Workaholismo
@@ -30,7 +63,7 @@ Com desculpas como a pressão da carreira profissional ou mesmo o desejo de cres
 
 Ficar horas a mais trabalhando também influi em quantas horas a pessoa vai dormir e o acúmulo de poucas horas de sono também vai causar mais stress e fatiga.
 
-## Nem sempre os esforçados são víciados no trabalho
+### Nem sempre os esforçados são víciados no trabalho
 
 Enquanto os esforçados estão com um objetivo a cumprir, os _workaholics_ estão em busca de manter-se trabalhando, sentindo a necessidade de continuar mesmo sem necessidade.
 
@@ -46,7 +79,7 @@ Diferente da pessoa que está se esforçando, tentando ser melhor, o _workaholic
 * Perda da habilidade de relaxar
 * Inabilidade de acreditar que os colegas ou subordinados podem realizar suas tarefas
 
-## O tempo e a energia
+### O tempo e a energia
 
 O ser humano é diferente das máquinas e precisa renovar suas energias.
 
@@ -66,17 +99,10 @@ A pessoa que entra neste ritmo acelerado tende a comportar-se como quem tem prob
 
     Breathe, stretch, and schedule in time to restore your mind, body and soul each and every day.  This small investment in time will not only benefit you, it will increase your creativity and productivity on the job. [4]
 
-## A estratégia
-
-A ideia é enviar os livros de mandalas para as pessoas queridas e depois vou pedir para que elas façam o mesmo para outras pessoas. Aí surgiu a ideia de espalhar mais livros.
-
-Estava apenas emprestando os meus primeiros três mas aí comprei mais 10 para seguir com mais pessoas em diversos lugares do Brasil. Até o momento que escrevo já levei os 3 livros e temos participantes de: São Miguel do Oeste, São José do Cedro, Anchieta e Francisco Beltrão. Agora têm alguns em Chapecó e outros em Passo Fundo. Esta semana peguei outros aqui em Francisco Beltrão e estou enviando para outros amigos especiais de Brasília.
-
-Acredito que até o final do estágio existirão mais alguns outros livros circulando puramente por minha influência, pois meus amigos já se disporam a comprar mais alguns e também canetinhas entre outros.
 
 ## Justificativa
 
-Durante a matéria de arteterapia a professora Graziella Ormezzano nos propôs um primeiro ensaio de pesquisa sobre o público que tinhamos intenção em trabalhar. Durante os primeiros meses da pós graduação, acreditei fielmente que iria conseguir trabalhar com os "workaholics" (viciados em trabalho). Estudei e pesquisei sobre o assunto, entrei em contato com a doutora Barbara King que é Phd no assunto. Dentro da linha de estudo alvo, os principais aspectos eram:
+Durante os primeiros meses da pós graduação, acreditei fielmente que iria conseguir trabalhar com os "workaholics" (viciados em trabalho). Estudei e pesquisei sobre o assunto, entrei em contato com a doutora Barbara King que é Phd no assunto. Dentro da linha de estudo alvo, os principais aspectos eram:
 
 * Sistema capitalista
 * Alienação e inversão dos sentidos
@@ -142,7 +168,7 @@ O quadro de participantes está em  constante atualização pois as mandalas est
 
 ## Método de pesquisa-ação
 
-Como a proposta é diferente de uma terapia tradicional e não estou tendo contato com as pessoas diretamente, estou planejando fazer uma pesquisa complementar específica. A ideia é fazer um questionário rico em introspecção e focado em levantar dados para entender a eficácia da prática de pintar mandalas mesmo que sem a compania de um arteterapeuta.
+Como a proposta é diferente de uma terapia tradicional e não existe contato com as pessoas diretamente, a estratégia será fazer uma pesquisa complementar específica. A ideia é fazer um questionário rico em introspecção e focado em levantar dados para entender a eficácia da prática de pintar mandalas mesmo que sem a compania de um arteterapeuta.
 
 * Grupo focal
 * Estratégica
@@ -179,7 +205,7 @@ As redes sociais são ferramentas boas mas as pessoas desvirtuam seu uso. No cas
 
 Da mesma maneira a rede social integra as pessoas e as coisas. Dessa forma ao invés de me deparar com listas de emails e questionários chatos, pretendo criar um grupo na rede social mais disseminada atualmente Facebook (passou 1 bilhão de usuários ativos) para conversar e dialogar com as pessoas sobre a mandala terapia e a beleza do processo terapêutico.
 
-Meu foco é adicionar apenas os participantes e trabalhar em um modelo mais informal, permitindo que as pessoas fluam em suas conclusões ao invés de [ ] marcar aqui ou [ ] aqui.
+O foco é adicionar apenas os participantes e trabalhar em um modelo mais informal, permitindo que as pessoas fluam em suas conclusões ao invés de [ ] marcar aqui ou [ ] aqui.
 
 ## Continuação e extensão
 
@@ -190,6 +216,16 @@ Em um terceiro momento imagino que mandalas de uns serão pintados por outros. E
 A construção dos passos específicos entre: apreciar, colorir, desenhar e colorir mandalas desenhadas por outros participantes trará a cada um dos participantes em cada um dos estágios uma experiência específica e única. Todas as mandalas são diferentes e cada uma estará em seu estágio específico. Dessa forma, para cada um será criado um novo significado neste tempo/espaço.
 
 Considera-se importante enfatizar que a experiência é de cada pessoa, e dessa forma não será "interpretada" ou mesmo "traduzida" para este estudo de caso. Os resultados serão dados pelas estatísticas genéricas e não pela interpretação de significado de cada estágio experiiênciado por cada pessoa.
+
+# Cronograma de atividades
+
+------+---------------------------------------------------
+ data | objetivo
+------+---------------------------------------------------
+08/06 | entrega do cronograma e acompanhamento do projeto
+20/06 | apresentar a preparação do material do estágio
+08/07 | entrega da primeira versão para o orientador
+08/08 | entrega da versão final da monografia
 
 
 # Referêncial teórico
