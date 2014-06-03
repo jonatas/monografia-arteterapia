@@ -219,13 +219,13 @@ Considera-se importante enfatizar que a experiência é de cada pessoa, e dessa 
 
 # Cronograma de atividades
 
-------+---------------------------------------------------
- data | objetivo
-------+---------------------------------------------------
-08/06 | entrega do cronograma e acompanhamento do projeto
-20/06 | apresentar a preparação do material do estágio
-08/07 | entrega da primeira versão para o orientador
-08/08 | entrega da versão final da monografia
+--------+---------------------------------------------------
+|  data | objetivo |
+--------+---------------------------------------------------
+| 08/06 | entrega do cronograma e acompanhamento do projeto |
+| 20/06 | apresentar a preparação do material do estágio    |
+| 08/07 | entrega da primeira versão para o orientador      |
+| 08/08 | entrega da versão final da monografia             |
 
 
 # Referêncial teórico
