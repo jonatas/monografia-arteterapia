@@ -119,6 +119,18 @@ O principal foco do projeto é estimular um primeiro contato com o desenho/pintu
 O processo não tem barreiras e nem muitas regras. A ideia é que quem se interessar em ter acesso terá. Não existe uma restrição quanto ao número de mandalas, nem mínimo e nem máximo. Também não existem restrições quanto a múltiplos autores incrementarem as pinturas da mesma mandala.
 
 
+## A liberdade de escolha
+
+A proposta é vista como uma terapia. Mas diferente de uma sessão terapêutica delimitado por espaço, tempo e pessoas ou terapêuta, o participante é livre. Quanto:
+
+*  ao espaço aonde irá pintar as mandalas
+*  as pessoas as quais irá compartilhar os livros
+*  ao horário e inspiração para pintar as mandalas
+*  a escolha por pintar as mandalas sem nenhuma motivação externa
+*  a escolha por qual mandala pintar
+
+Essa liberdade traz ao participante a possibilidade de idealizar a sua terapia. Escolher e estruturar seu espaço e tempo da melhor forma para participar. Além de não forçar, a mesma não propõe nem impõe, apenas sugere.
+
 ### Quadro de participantes
 
 O quadro de participantes está em  constante atualização pois as mandalas estão circulando e o controle está sendo feito através de um [grupo fechado no facebook](https://www.facebook.com/groups/646801458744586  "Ainda é secreto precisa de convite.").
