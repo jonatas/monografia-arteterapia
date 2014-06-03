@@ -221,9 +221,8 @@ Considera-se importante enfatizar que a experiência é de cada pessoa, e dessa 
 
 # Cronograma de atividades
 
-|-------|-----------------------------------------------------------------------------|
 |  Data | Objetivo                                                                    |
-|-------|-----------------------------------------------------------------------------|
+| ----- | --------------------------------------------------------------------------- |
 | 08/06 | Entrega do cronograma e acompanhamento do projeto                           |
 | 08/07 | Entrega da primeira versão para o orientador                                |
 | 12/07 | Recebimento do feedback do orientador sobre a monografia                    |
