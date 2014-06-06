@@ -10,6 +10,13 @@
 
 # Introdução
 
+A mandalaterapia trata-se do uso de mandalas como uma ferramenta arte terapêutica.
+
+O projeto busca disseminar a mandalaterapia de uma forma diferente, onde as pessoas realizam a sua terapia no seu local favorito ou onde bem desejarem.
+
+No estudo sobre as mandalas na terapia, o foco dissemina-se nas origem dos problemas do mundo contemporâneo, explorando principalmente a influência da tecnologia e o workaholismo: vício no trabalho.
+
+
 ## A mandala
 
 Mandala significa círculo. Em uma tradução livre do dicionário OxFord:
