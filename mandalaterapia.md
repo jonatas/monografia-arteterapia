@@ -107,8 +107,9 @@ Após estar inteiramente entregue a tecnologia, a conectividade se torna parte e
 
 Conforme as pessoas foram se tornando íntimas com a internet e com a entrada das redes sociais, a conectividade se tornou essencial o tempo todo. A quebra inesperada dos links começou a trazer uma série de prejuízos reais e psicológicos as pessoas. Em conjunto com o aumento de pessoas usando a internet e aparelhos de celular veio a infraestrutura e todas as atualizações de tecnologias.
 
-Com a chegada das novas redes, novos protocolos foram criados, passando por TDMA, GPRS, 2G, 3G  e agora está chegando a tecnologia 4G oferecendo literalmente banda larga para rede móvel. Com tanto poder e acessibilidade se tornou simples de continuar presente na rede até mesmo quando se está viajando. Um exemplo clássico é a inclusão de distribuídores de internet WIFI em ônibus, que muito colabora para tornar a viagem longa mais "produtiva".
+Com a chegada das novas redes, novos protocolos foram criados, passando por TDMA, GPRS, 2G, 3G, 4G e por aí vai. Com tanto poder e acessibilidade se tornou simples de continuar presente na rede até mesmo quando se está viajando. Um exemplo clássico é a inclusão de distribuídores de internet WIFI em ônibus, que muito colabora para tornar a viagem longa mais "produtiva".
 
+Os carros também já estão conectados as redes sociais e outros meios de comunicação.
 ### Coletividade e altruísmo
 
 O sentimento de coletividade é bom para qualquer pessoa, sentir-se pertencente a um grupo traz segurança e prazer. Ao particiar de um grupo as pessoas desfrutam de vários tipos de direitos e deveres. A internet facilitou o ato coletivo cibernetico, e se tornou tão importante quanto no mundo real.
@@ -145,11 +146,12 @@ O problema não é generalizado, pois na China, estudos [revelaram][diferenca-oc
 
 De fato, as redes sociais são ferramentas de auto-promoção e isto foi muito atraente para os ocidentais. A professora Linda Jackson, da universidade de Michigan [citou][diferenca-ocidente-oriente] uma raiz cultural do caso:
 
-    In the United States, it's all about promoting yourself and taking credit for positive outcomes and denying blame for negative outcomes
+    Nos Estados Unidos, isso tudo é uma forma de promover-se a si mesmo e dar crédito dos resultados positivos e negar a culpa nos resultados negativos. (Tradução livre)
+
 
 Enquanto na China é o oposto e as pessoas preferem compartilhar os méritos com o grupo.
 
-    In China, it's the opposite. If something bad happens, you take the blame and talk about how you can improve. If something good happens, the credit is shared for the good of the group.
+    Na China, isso é o oposto. Se alguma coisa ruim acontece, você assume a culpa e fala sobre como você pode melhorar. Se alguma coisa boa acontece, o crédito é compartilhado para o bem do grupo.  (Tradução livre)
 
 É inegável a conexão de prazer ligado a admiração como parte natural do ser humano. O desejo de ser admirado faz com que a pessoa sinta uma motivação ainda maior para ser melhor[1][admiracao]. Este sentimento funciona muito bem em grupo e faz com que o trabalho se torne mais cooperativo, o sentimento está ligado a associar-se e também a ajudar outros membros do grupo que são admirados.
 
@@ -189,21 +191,26 @@ Diferente da pessoa que está se esforçando, tentando ser melhor, o _workaholic
 
 O ser humano é diferente das máquinas e precisa renovar suas energias.
 
-    Like time, energy is finite; but unlike time, it is renewable. [1][1]
+    Como tempo, energia é finita; mas diferente do tempo, ela é renovável.
 
 Pesquisadores [descobriram][5] na década de 50 que temos um ciclo de aproximadamente 90 minutos(entre 80 e 120 minutos) de sono, no qual alterna-se entre dormindo e acordado. Uma década depois foi descoberto que este relógio biológico também funciona nas noites de vigília.
 
 A diferença entre a noite de vigília e o dia, é que durante o dia o corpo passa por um estado de alerta para um estado de fatiga psicológica durante este mesmo ciclo de tempo. A cada ciclo, o corpo pede para dar uma 'respirada' mas muitas vezes é recebe café e açucar como resposta durante o horário de trabalho.
 
-    The difference is that during the day we move from a state of alertness progressively into physiological fatigue approximately every 90 minutes. Our bodies regularly tell us to take a break, but we often override these signals and instead stoke ourselves up with caffeine, sugar and our own emergency reserves — the stress hormones adrenaline, noradrenaline and cortisol. [1]
+    A diferença está que durante o dia nós movemos nosso estado de alerta progressivamente em uma fatiga psicológica aproximadamente a cada 90 minutos. Nosso corpos regularmente nos falam para dar uma parada, mas nós geralmente sobrescrevemos esses sinais nos atiçando com cafeína, açucar e nossas próprias reservas de emergência - a adrenalina dos hormônios do stress, noradrenalina e cortisol. (Tradução livre)
 
-    A recent Harvard study estimated that sleep deprivation costs American companies $63.2 billion a year in lost productivity. [1]
 
-    The Stanford researcher Cheri D. Mah found that when she got male basketball players to sleep 10 hours a night, their performances in practice dramatically improved: free-throw and three-point shooting each increased by an average of 9 percent.[1]
+Além das substâncias não serem boas para saúde, a privação do sono também se torna um problema. A fatiga mental causa improdutividade e não consegue explorar o melhor do ser humano.
+
+    Um recente estudo de Harvard estimou que a privação dos sonos custou as companias americanas $ 63.2 bilhoes em um ano por perca de produtividade. (Tradução livre)
+
+Além das percas financeiras, também perde-se a oportunidade de explorar ao máximo de cada dia.
+
+    A pesquisadora da Standford, Cheri D. Mah descobriu que quando um homem jogador de basquete dorme 10 horas durante a noitte ele têm uma performance dramaticamente melhorada:  lançamento livre e três pontos aumentaram em média 9%.  (Tradução livre)
 
 A pessoa que entra neste ritmo acelerado tende a comportar-se como quem tem problemas com abuso de substâncias, em uma esfera de necessidade. De fato, este sentimento gera uma ansiedade que acaba atrapalhando o próprio trabalho.
 
-    Breathe, stretch, and schedule in time to restore your mind, body and soul each and every day.  This small investment in time will not only benefit you, it will increase your creativity and productivity on the job. [4]
+    Respirar, alonga, e agendar um tempo para restaurar a mente, corpo e alma todos os dias. Esse pequeno investimento em tempo irá não apenas beneficiar você, isso irá aumentar sua criatividade e produtividade no trabalho. [4]  (Tradução livre)
 
 
 ## Justificativa
@@ -216,13 +223,13 @@ Durante os primeiros meses da pós graduação, acreditei fielmente que iria con
 * Workaholismo
 * Falta de tempo
 
-Pensando sobre estes tópicos, tive a plena certeza que o público em questão não toparia participar do estágio. Tanto por falta de tempo quanto por muito trabalho, as desculpas apareceriam e dificilmente conseguiria atingir estas pessoas.
+Pensando sobre estes tópicos, tive a plena certeza que o público em questão não toparia participar formalmente de meu estágio. Tanto por falta de tempo quanto por muito trabalho, as desculpas apareceriam e dificilmente conseguiria atingir estas pessoas.
 
 ## Público alvo
 
-Analisando estes aspectos, resolvi mudar um pouco a forma de ver o público e a forma que iria interagir com essas pessoas tão ocupadas e sem tempo.
+Analisando estes aspectos, mudou-se a forma de ver o público e a forma que iria interagir com essas pessoas tão ocupadas e sem tempo.
 
-O projeto está acontecendo de forma distribuída. As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
+O projeto aconteceu de forma distribuída. As pessoas receberão os livros com mandalas para colorir e apreciar em suas casas e poderão passar os livros em frente para outras pessoas especiais que queiram participar.
 
 Um dos maiores objetivos é enviar os livros de mandalas para colorir via correspondência e este será o primeiro contato com os participantes.
 
