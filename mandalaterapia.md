@@ -12,13 +12,34 @@
 
 ## A mandala
 
-Mandala significa círculo. Segundo o dicionário OxFord: _uma figura representando o universo em Hindu e simbolismo budista. [PSYCOANALISE] como um símbolo em um sonho, representando a busca do sonhador pela plenitude e auto conhecimento._
+Mandala significa círculo. Em uma tradução livre do dicionário OxFord:
+
+    Uma figura representando o universo em Hindu e simbolismo budista. 
+    [PSYCOANALISE] como um símbolo em um sonho, representando a busca do sonhador pela plenitude e auto conhecimento.
 
 
-_Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino._
+O círculo por sua vez, têm seu significado próprio, em uma escala muito maior e mais abstrata que a mandala.
+
+    Segundo símbolo fundamental (de acordo com CHAS, 24), no grupo a que pertecem o centro, a cruz e o quadrado.
+    Em primeiro lugar, o círculo é um ponto estendido; participa da perfeição do ponto. Por conseguinte, o ponto e o círculo, possuem propriedades simbólicas comuns: perfeição, homogeneirdade, ausência de distinção ou divisão... O movimento circular é perfeito, imutável, sem começo nem fim, e nem variações; o que habilita a simbolizar o tempo. Define-se o tempo como uma sucessão contínua e aos outros.... O círculo simbolizará também o céu, de movimento circular inalterável. (CHEVALIER; GHEERBRANT, 2012)
+
+A definição matemática é prioritária no dicionário oxFord e afirma:
+
+    Uma figura plana arredondada (a circumferencia) consiste em pontos equidistantes de um ponto fixo (o centro).
+
+A beleza do desenho de mandala está integrado tanto a linearidade dos pontos equidistantes quanto a perfeição das curvas.  A aplicação da combinação dos elementos geométricos em perfeita harmonia caracterizam a criação das mandalas como aplicação da geometria sagrada: que está presente na arquitetura das diversas civilizações.
 
 
-_A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças. Expressão criativas através da mandala providencial ao indivíduo liverdade para representar o interior e exterior de seus mundos da maneira que ele escolhe. Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável. _(Tradução livre. BUCHALTER, Suzan. Localização 162).
+Com suas belas artes, a mandala é admirada e uma antiga ferramenta de introspecção.
+
+    Na tradição tibetana, o mandala é o guia imaginário e provisório da meditação. Ele manifesta em suas combinações variadas de círculos e de quadrados o universo espiritual e o material assim como a dinâmica das relações que os unem, no plano tríplice, cósmico, antropológico e divino. (CHEVALIER; GHEERBRANT, 2012)
+
+Na terapia, a mandala não é tão precisa geometricamente e nem existem regras estéticas. A mandala deve apenas conduzir o pensamento durante a sessão.
+
+    A mandala serve como um veículo seguro para expressão do inconsciente bem como questões consientes e crenças.
+    Expressão criativas através da mandala providencial ao indivíduo liberdade para representar o interior e exterior de seus mundos da maneira que ele escolhe.
+    Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável.
+    (Tradução livre. BUCHALTER, Suzan. Localização 162).
 
 ## A Arteterapia
 
@@ -110,6 +131,7 @@ Conforme as pessoas foram se tornando íntimas com a internet e com a entrada da
 Com a chegada das novas redes, novos protocolos foram criados, passando por TDMA, GPRS, 2G, 3G, 4G e por aí vai. Com tanto poder e acessibilidade se tornou simples de continuar presente na rede até mesmo quando se está viajando. Um exemplo clássico é a inclusão de distribuídores de internet WIFI em ônibus, que muito colabora para tornar a viagem longa mais "produtiva".
 
 Os carros também já estão conectados as redes sociais e outros meios de comunicação.
+
 ### Coletividade e altruísmo
 
 O sentimento de coletividade é bom para qualquer pessoa, sentir-se pertencente a um grupo traz segurança e prazer. Ao particiar de um grupo as pessoas desfrutam de vários tipos de direitos e deveres. A internet facilitou o ato coletivo cibernetico, e se tornou tão importante quanto no mundo real.
@@ -373,13 +395,24 @@ Sendo que para estas entregas ficam aqui as seguintes importâncias:
 
 # Referêncial teórico
 
-* Dicionário dos Símbolos - Jean Chevalier
-* KILLING, Barbara. The Respectable Addicts, 1997.
-* MORIN, Edgar. Cultura de Massa.
-* COUTINHO, Nelson A. F. A Mandala Viva: O Caminho de Ida Rolf e Carl Jung. São Paulo: Escrituras, 2008.
-* BOLEN, Jean Shinoda. O Milionésimo Círculo: Como transformar a nós mesmas e ao mundo. Um guia para Círculos de Mulheres. Tradução Elisabetta Recine. São Paulo: TRIOM, 2003.
-* JUNG, Carl Gustav. O Homem e seus Símbolos. Rio de Janeiro: Nova Fronteira, 2002.
+CHEVALIER, Jean; GHEERBRANT, Alain. **Dicionário de Símbolos**. 17(a).ed. Rio de Janeiro: J. Olympio, 2002.
 
+BUCHALTER, Susan. **Mandala Symbolism and Techniques: Innovative Approaches for Professionals**. <https://kindle.amazon.com/work/mandala-symbolism-techniques-innovative-professionals-ebook/B008PDPDC4/B00CQ8OC3A>
+
+KILLING, Barbara. **The Respectable Addicts**. 1997.
+
+MORIN, Edgar. **Cultura de Massa.**
+
+COUTINHO, Nelson. **A. F. A Mandala Viva: O Caminho de Ida Rolf e Carl Jung**. São Paulo: Escrituras, 2008.
+
+BOLEN, Jean Shinoda. **O Milionésimo Círculo: Como transformar a nós mesmas e ao mundo. Um guia para Círculos de Mulheres**. Tradução Elisabetta Recine. São Paulo: TRIOM, 2003.
+
+JUNG, Carl Gustav. **O Homem e seus Símbolos**. Rio de Janeiro: Nova Fronteira, 2002.
+
+JUNG, Carl Gustav. **Man and His Symbols**. <https://kindle.amazon.com/work/man-symbols-carl-gustav-jung/B000AIBU7E/0440351839>
+
+
+**The New Oxford American Dictionary by Oxford**. <https://kindle.amazon.com/work/the-new-oxford-american-dictionary-ebook/B00BRTFK6C/B0053VMNY2>
 
 # Recursos
 
