@@ -19,13 +19,13 @@ No estudo sobre as mandalas na terapia, o foco dissemina-se nas origem dos probl
 
 ## A mandala
 
-Mandala significa círculo. Em uma tradução livre do dicionário OxFord:
+Mandala significa círculo. Em uma tradução livre do dicionário **The new OxFord American Dictionary**:
 
     Uma figura representando o universo em Hindu e simbolismo budista. 
     [PSYCOANALISE] como um símbolo em um sonho, representando a busca do sonhador pela plenitude e auto conhecimento.
 
 
-O círculo por sua vez, têm seu significado próprio, em uma escala muito maior e mais abstrata que a mandala.
+O círculo por sua vez, têm seu significado próprio, em uma escala mais abrangente e abstrata:
 
     Segundo símbolo fundamental (de acordo com CHAS, 24), no grupo a que pertecem o centro, a cruz e o quadrado.
     Em primeiro lugar, o círculo é um ponto estendido; participa da perfeição do ponto. Por conseguinte, o ponto e o círculo, possuem propriedades simbólicas comuns: perfeição, homogeneirdade, ausência de distinção ou divisão... O movimento circular é perfeito, imutável, sem começo nem fim, e nem variações; o que habilita a simbolizar o tempo. Define-se o tempo como uma sucessão contínua e aos outros.... O círculo simbolizará também o céu, de movimento circular inalterável. (CHEVALIER; GHEERBRANT, 2012)
@@ -34,8 +34,9 @@ A definição matemática é prioritária no dicionário oxFord e afirma:
 
     Uma figura plana arredondada (a circumferencia) consiste em pontos equidistantes de um ponto fixo (o centro).
 
-A beleza do desenho de mandala está integrado tanto a linearidade dos pontos equidistantes quanto a perfeição das curvas.  A aplicação da combinação dos elementos geométricos em perfeita harmonia caracterizam a criação das mandalas como aplicação da geometria sagrada: que está presente na arquitetura das diversas civilizações.
+A beleza do desenho de mandala está integrado tanto a linearidade dos pontos equidistantes quanto a perfeição das curvas. A combinação dos elementos geométricos em perfeita harmonia caracterizam a criação das mandalas como aplicação da geometria sagrada: que está presente na arquitetura das diversas civilizações.
 
+    O círculo é um das formas mais imediatamente reconhecível no universo e foi reconhecida nas escolhas medievais assim como divina ou forma perfeita. Isso é a base de muitas estruturas no universo, dos átomos até as células até as estrelas e as galaxias. Isso promove relaxamento por que não existe limites, ele é o objeto de duas dimensões mais simétrico na existência, e diferente do quadrado ou retângulos, o círculo pode ser rotacionaod para qualquer direção e continua o mesmo. O círculo não têm distrações com cantos ou pontos complexos, então é fácil de focar no centro. (BUCHALTER, Localização 149)
 
 Com suas belas artes, a mandala é admirada e uma antiga ferramenta de introspecção.
 
@@ -47,6 +48,9 @@ Na terapia, a mandala não é tão precisa geometricamente e nem existem regras 
     Expressão criativas através da mandala providencial ao indivíduo liberdade para representar o interior e exterior de seus mundos da maneira que ele escolhe.
     Não existem julgamentos e o cliente está avisado que qualquer que ele usar para pintar é perfeitamente aceitável.
     (Tradução livre. BUCHALTER, Suzan. Localização 162).
+
+BUCHALTER, (Localização 162) comenta que Carl Jung, o pai da psicolologia analítica, descobriu que as mandalas são produto do inconsciente. Elas são irracionais e a maioria mágica na natureza, no seu livro, Memórias, Sonhos e Reflexões, Jung descreve a mandala como "o exponente de todos os caminhos. Esse é o caminho do centro, da individuação" (JUNG;JAFFE, 1962). Como parte da natureza do universo, o símbolo da mandala parece fazer parte da psique de cada pessoa.
+
 
 ## A Arteterapia
 
@@ -75,20 +79,20 @@ O arteterapeuta deve usufruir de vários métodos incluindo pintura, desenho, es
 
 A ênfase primária da arteterapia não é apenas o imaginário com a técnica, mas uma junção de sentimentos, ideias, pensamentos e imagens que serão triviais para a experiência.
 
-
 ### Origem da arteterapia
 
 Apesar da arte ser utilizada a milhares de anos, a arteterapia foi formalizada apenas no século XX. Observou-se que as pessoas que sofrem de doenças mentais sentem facilidade de expressar-se através de desenhos e outras formas de expressão artística, e esta observação direcionou os estudos desta nova área como estratégias para a exploração dos recursos mentais e formas de iteração mais cognitivas com os clientes.
 
 Dessa maneira, a arte tornou-se uma parte campos terapêuticos e tem sido usada desde então como uma técnica de tratamento.
 
-# A condição do homem perante a tecnologia
+## A condição do homem perante a tecnologia
 
-Desde que o homem criou os primeiros aparatos tecnológicos, sempre teve muitos fãs e hoje é um das áreas mais atraentes do consumismo.
+Desde que o homem criou os primeiros aparatos tecnológicos, sempre atraiu muitos fãs e hoje a tecnologia é um das áreas mais atraentes do consumismo.
 
 Com obsolecência programada e muitas novidades, cada melhoria tecnologica traz consigo uma série de novos recursos, interfaces interativas e melhorias "imperdíveis".
 
 O super fluxo de informações da internet faz com que a novidade seja rapidamente espalhada, como um ataque viral, as pessoas se rendem ao consumismo, melhorando seus aparatos tecnologicos continuamente. Independente de necessidade, a atualização da tecnologia parte sempre do desejo de estar a frente, se sentir parte do progresso e até mesmo uma referência no quesito tecnológico.
+
 
 ### Conforto extremo
 
@@ -105,7 +109,6 @@ Comprar tecnologia é sim uma expressão de poder aquisitivo e ou excessividade 
 Por exemplo, trocar de smartphone é muito mais barato e fácil do que trocar de carro ou casa. Mas de uma forma mais singela e eficiente, é possível que uma pessoa da classe média tenha o mesmo modelo de smartphone que uma pessoa da classe alta. E isso faz com que consigam pertencer ao mesmo grupo de tecnologia.
 
 ### Interdependência de organismos e comunidades
-
 Quando a Apple lançou o primeiro iPhone, pouca gente respondia emails de seus smartphones e as redes ainda eram muito mais restritas. Quando começaram a se espalhar as primeiras respostas de emails assinadas: "Enviado de meu iPhone" literalmente começou uma 'egorevolução' tecnologica sobre a vida das pessoas.
 
 Também houve uma mudança nas assinaturas digitais que em muitos fóruns de hardware, continham detalhes de toda a gama de aparelhos que fulano ou ciclano possuía.
@@ -139,6 +142,8 @@ Com a chegada das novas redes, novos protocolos foram criados, passando por TDMA
 
 Os carros também já estão conectados as redes sociais e outros meios de comunicação.
 
+Todos esses elementos conectados a internet trazem o conceito de **ubiquidade tecnológica** ou **computação onipresente**. Onde a tecnologia está aparecendo em tudo e em todos os lugares.
+
 ### Coletividade e altruísmo
 
 O sentimento de coletividade é bom para qualquer pessoa, sentir-se pertencente a um grupo traz segurança e prazer. Ao particiar de um grupo as pessoas desfrutam de vários tipos de direitos e deveres. A internet facilitou o ato coletivo cibernetico, e se tornou tão importante quanto no mundo real.
@@ -161,8 +166,6 @@ Não foram só os apresentadores de televisão mas outros famosos também gostar
 
 As redes sociais entenderam perfeitamente o quanto as pessoas tinham a necessidade de reafirmar seus relacionamentos e criaram diversas ferramentas para tornar isso mais vivo e intrínseco em seus relacionamentos. Através da tags em imagens, sistemas de "check in" em grupo, e menções em texto, as pessoas passaram a reforçar públicamente seus vínculos, enfatizando sua popularidade e aumentando seu poder de visibilidade na rede social.
 
-
-### Insegurança
 
 ### Ansiedade
 
@@ -189,7 +192,6 @@ A admiracão virtual se tornou uma ferramenta incrível de tornar as pessoas ain
 Da mesma forma quem recompartilha algo, tem o sentimento de sentir-se inspirado ou em gesto de concordância com o mesmo. Reafirma a alimenta a pessoa que criou a ideia, aumenta sua visibilidade e aumenta o potencial deste objeto ser tendencioso para outras pessoas.
 
 A maioria das pessoas ainda não entendeu o quanto isto tem sido prejudicial ao meio. Enquanto admiradores, gananciosos por mais e mais ideias para "seguir". Enquanto admirados, tendenciosos por alimentar e encontrar mais adeptos às suas ideias.
-
 
 
 ## Workaholismo
@@ -270,7 +272,7 @@ As regulamentações acabaram ficando na teoria, mas todas as pessoas que estive
 
 ## De onde surgiu a ideia
 
-A alguns meses atrás, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos livres fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
+Em setembro de 2013, estive em Florianópolis apresentando um trabalho na UDESC. Em meus momentos livres fui até uma biblioteca e encontrei alguns livros entitulados "mandalas de bolso para colorir".
 
 Comprei 3 destes e logo me encantei com o processo de introspecção durante a pintura. Estive 100% concentrado nas intersecções de cores e como combinavam nas formas. Assim que pude, mostrei para minha família, amigos e todos também gostaram.
 
@@ -291,13 +293,29 @@ O processo não tem barreiras e nem muitas regras. A ideia é que quem se intere
 
 A proposta é vista como uma terapia. Mas diferente de uma sessão terapêutica delimitado por espaço, tempo e pessoas ou terapêuta, o participante é livre. Quanto:
 
+    Dessa maneira, as mandalas não precisam ser conforme algum estereótipo singular de aparência.
+    Cada individuo se torna o centro do seu próprio universo, ou mandala, e dali demonstra-se 
+    através da arte e pensamentos e sentimentos que agem como uma partícula essencial de cada universo
+    pessoal de cada indivíduo. (BUCHALTER, Localização 155)
+
 *  ao espaço aonde irá pintar as mandalas
 *  as pessoas as quais irá compartilhar os livros
 *  ao horário e inspiração para pintar as mandalas
 *  a escolha por pintar as mandalas sem nenhuma motivação externa
 *  a escolha por qual mandala pintar
+* a liberdade da forma de pintar
 
 Essa liberdade traz ao participante a possibilidade de idealizar a sua terapia. Escolher e estruturar seu espaço e tempo da melhor forma para participar. Além de não forçar, a mesma não propõe nem impõe, apenas sugere.
+
+BUCHALTER enfatiza esta liberdade na terapia:
+
+    Enquanto os budistas devem seguir muito estritamente cada detalhe das instruções em como as mandalas devem ser construídas e quais cores  devem ser usadas em quais circunstâncias, mandalas usadas para terapia não devem ter limitações. (Tradução livre, localização 157).
+
+
+### A tradução de um sentimento
+
+
+
 
 ### Quadro de participantes
 
@@ -376,13 +394,13 @@ Sendo que para estas entregas ficam aqui as seguintes importâncias:
 
 ## Primeira entrega - 08/06
 
-* Entrega do cronograma
+* Entrega do cronograma (ok)
 * Apresentação do estado da arte e direcionamento das atividades
 * Explorar e levantar aspectos faltantes da monografia
 
-## Segunda entrega - 08/07
+## Segunda entrega - 12/07
 
-* Apresentação formal do TCC para o orientador
+* Apresentação formal do TCC para o orientador (ok)
 * Assimilar a resolução de todos os itens anteriormente requeridos
 * Apresentar modelo do painel das mandalas
 
@@ -418,10 +436,9 @@ JUNG, Carl Gustav. **O Homem e seus Símbolos**. Rio de Janeiro: Nova Fronteira,
 
 JUNG, Carl Gustav. **Man and His Symbols**. <https://kindle.amazon.com/work/man-symbols-carl-gustav-jung/B000AIBU7E/0440351839>
 
-
 **The New Oxford American Dictionary by Oxford**. <https://kindle.amazon.com/work/the-new-oxford-american-dictionary-ebook/B00BRTFK6C/B0053VMNY2>
 
-# Recursos
+### Recursos
 
 [internet-activismo]: http://en.wikipedia.org/wiki/Internet_activism
 [facebook-effects-on-kids]: http://www.sciencedaily.com/releases/2011/08/110806203538.htm

@@ -50,7 +50,7 @@ Clients tend to feel more comfortable working within the circle because it is st
 
     Localização: 105
 
-Many people feel freer to reveal true feelings when drawing a mandala, and less likely to hide behind superficial images such as vases of flowers and landscapes.
+Many people feel free to reveal true feelings when drawing a mandala, and less likely to hide behind superficial images such as vases of flowers and landscapes.
 
     Localização: 107
 
@@ -74,19 +74,19 @@ The mandala is also a sacred symbol for Native Americans. For the shamans, the c
 
     Localização: 147
 
-The circle is one of the most immediately recognizable shapes in the universe and was recognized by medieval scholars as a divine or perfect shape. It is the basis of so many structures in the universe, from atoms and cells through stars and galaxies. It promotes relaxation because there are no boundaries, it is the most symmetrical two dimensional shape in existence, and unlike squares or rectangles, the circle can be rotated in any direction and remains the same. The circle does not have distracting corners or complex points so it is easy to focus on the center.
+* [x] The circle is one of the most immediately recognizable shapes in the universe and was recognized by medieval scholars as a divine or perfect shape. It is the basis of so many structures in the universe, from atoms and cells through stars and galaxies. It promotes relaxation because there are no boundaries, it is the most symmetrical two dimensional shape in existence, and unlike squares or rectangles, the circle can be rotated in any direction and remains the same. The circle does not have distracting corners or complex points so it is easy to focus on the center.
 
     Localização: 149
 
-In this way, mandalas need not conform to any single stereotype of appearance. Each individual can become the center of their own universe, or mandala, and from there demonstrate through art the thoughts and feelings that act as the essential particles of that individual’s personal universe.
+* [x] In this way, mandalas need not conform to any single stereotype of appearance. Each individual can become the center of their own universe, or mandala, and from there demonstrate through art the thoughts and feelings that act as the essential particles of that individual’s personal universe.
 
     Localização: 155
 
-While Buddhist monks must follow very strict and detailed instructions concerning how mandalas must be constructed and which colors must be used in which circumstances, mandalas that are used for therapy have no limitations.
+* [x] While Buddhist monks must follow very strict and detailed instructions concerning how mandalas must be constructed and which colors must be used in which circumstances, mandalas that are used for therapy have no limitations.
 
     Localização: 157
 
-Carl Jung, the father of analytical psychology, found that mandalas can be products of the unconscious. They are irrational and almost magical in nature, and, in his book Memories, Dreams and Reflections, Jung described the mandala as “the exponent of all paths. It is the path to the center, of individuation” (Jung and Jaffe 1962). As a natural part of the universe, the mandala symbol is also a natural part of each person’s psyche.
+* [x] Carl Jung, the father of analytical psychology, found that mandalas can be products of the unconscious. They are irrational and almost magical in nature, and, in his book Memories, Dreams and Reflections, Jung described the mandala as “the exponent of all paths. It is the path to the center, of individuation” (Jung and Jaffe 1962). As a natural part of the universe, the mandala symbol is also a natural part of each person’s psyche.
 
     Localização: 162
 
@@ -142,7 +142,7 @@ The cards are used in combination with the creation of individual mandalas. When
 
     Localização: 3931
 
-The combination of stages in one mandala may indicate that an individual is experiencing more than one stage or is transitioning between stages.
+The combination of stages in one mandala may indicate that an individual is experiencing more than one stage or is transitioning retween stages.
 
     Localização: 3933
 
@@ -244,3 +244,5 @@ PAIN, Sara;  JARREAU, Gladys. **Teoria e técnica da Arte-Terapia**.
 
 Disponível em <http://alana.org.br/semana-sem-telas-2013>. Acesso em 25 jul. 2013.
 
+### Pierre Levi - interconexão interplanetária
+### Diana damins
