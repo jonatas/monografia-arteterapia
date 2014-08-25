@@ -417,6 +417,23 @@ Sendo que para estas entregas ficam aqui as seguintes importâncias:
 * Adicionar agradecimentos e epígrafe
 * Organizar anexos para entregar junto
 
+# Depoimentos
+
+## Enfermeira - C.k. 26 anos
+
+Depoimento no grupo de mandala terapia do facebook.
+    
+    Boa noite, pessoal!
+    É minha primeira postagem no grupo. Não participei da pintura das mandalas mas vim fazer um relato.
+    Há um tempo atrás, vi a M.R. postar fotos das mandalas que ela fazia. Achei tão bonito, tão agradável de se ver que resolvi perguntar pra ela o que era. Ela me explicou brevemente sobre as mandalas, me adicionou aqui no grupo e me indicou o Jônatas para esclarecimentos. Isso foi há exatamente um mês atrás. Como não estou mais morando em beltrão, não pude pegar as apostilas do Jônatas para colorir.
+    Hoje, tive um dia extremamente corrido, estressante, difícil. Tava saindo do trabalho e lembrei das mandalas. Corri no nosso amigo Google, procurei mandala pra colorir, imprimi a primeira que encontrei. Passei numa livraria, comprei lápis de cor, vim pra casa, tomei banho e sentei no sofá. Organizei o material e comecei a pintar. Nunca tinha pintado mandala. Foram 3 horas de silêncio, de papel, lápis e eu.
+    Como estou? Leve, com sono, relaxada e tranquila. Não descontei estresse em ninguém. E isso é muito bom!!!
+    Encontrei um novo hobby! Encontrei paz na simplicidade do desenho, do papel, das cores 
+
+
+## Menina de 7 anos
+
+Não quis devolver os livros das mandalas. Ela argumentou que "precisava" ficar mais umtempo com eles.
 
 # Referêncial teórico
 
