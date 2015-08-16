@@ -12,7 +12,7 @@ Ninguém chega diretamente ao fisioterapeuta para descobrir que quebrou o braço
 A pessoa vai ao médico e comprovado que o braço está quebrado, este o encaminha
 para um fisioterapeuta o acompanhar e para cuidar do caso.
 Propondo exercícios e atividades físicas para restauração e reestruturação da parte afetada.
-A analogia acima tenta dizer que a arte faz um trabalho muito semelhante na arteterapia a 
+A analogia acima tenta dizer que a arte faz um trabalho muito semelhante na arteterapia a
 o que a atividade física para quem está tratando com um fisioterapeuta.
 
 O participante precisa fazer os exercícios para melhorar. Indiferente das
@@ -72,7 +72,7 @@ Até mesmo abordar questões do inconsciente.
 
 ## A mandala
 
-Mandala significa círculo. Caracterizado não apenas por círculo, existem 
+Mandala significa círculo. Caracterizado não apenas por círculo, existem
 mandalas quadradas e triangulares, imagens que formam uma figura concêntrica.
 
 Presente em muitas eras e civilizações a mandala têm uma longa história.
@@ -171,4 +171,41 @@ http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-65642009000100004#4
 - minha história
 - o estudo realizado
 
-# A auto terapia ou arte terapia?
+# A auto terapia com arte?
+
+O tópico em questão é uma reflexão sobre o auto-tratamento com arte. O questionamento
+inicia pela possibilidade de se auto-tratar com arte.
+
+Carl Jung se interessou em aplicar arteterapia em seus pacientes após
+perceber que era eficiente para ele mesmo. Sua história com a arteterapia inicia com um sonho muito inquietante que ele teve. Como o sonho não saia de sua mente, ele resolveu pintar uma paisagem que lembrasse o seu sonho. Tentando colocar em detalhes algo que tinha visto em seu sonho e não queria esquecer.
+Ele também pintou umas mandalas como atividade artística sem conexão psicoterapêutica. Depois, observou que a mandala funcionava como um modelo para orientar a mente.
+
+No estado caótico em que o ser humano se encontra, acreditava que a mandala funcionava
+como um refúgio para a introspecção do homem moderno.
+
+    Ainda na ordem de sustentar suas crenças, o homem contemporâneo paga o preço de sua
+    remarcável falta de introspecção. Ele está cego para o fato qeu tuda sua racionalidade
+    e eficiência, ele é posuído por "forças" que estão além do seu controle. Seus anjos e
+    demônios não desapareceram por completo, eles têm meramente novos nomes. Eles mantém
+    ele correndo sem descanso,  apreensão vaga, complicações psicológicas, e uma
+    insaciável necessidade de pílulas, álcool, tabaco, comida e sobre tudo, um grande
+    ordem de neoroses. (Tradução livre: JUNG, Carl, The man and his symbols)
+
+
+    Yet in order to sustain his creed, contemporary man pays the price in a remarkable lack of introspection. He is blind to the fact that with all his rationality and efficiency, he is possessed by “powers” that are beyond his control. His gods and demons have not disappeared at all; they have merely got new names. They keep him on the run with restlessness, vague apprehensions, psychological complications, an insatiable need for pills, alcohol, tobacco, food—and above all, a large array of neuroses. (JUNG, Carl, The man and his symbols)
+
+Carl Jung usou o desenho livre de mandalas em seus tratamentos de psicoterapia com pessoas que desconheciam a natureza das mandalas.
+
+Observou que os padrões que surgiam nos desenhos eram muito semelhantes e funcionava como uma maneira da mente descarregar informações do inconsciente. Ele começou a perceber que os desenhos eram algum tipo de meta-informação da mente, pois repetiam-se em diferentes pacientes.
+
+Indo a fundo na história, viajou pelo mundo e descobriu vestígios na arquitetura e na arte de diversas civilizações que se manifestavam com símbolos parecidos. Encontrou na arte diversas provas que o ser humano dividia algum tipo de consciencia, que fizesse com que manifestações semelhantes acontecessem em lugares extremamente distantes e até mesmo em tempos diferentes. Ele chamou isso de inconsciente coletivo.
+
+Usou as próprias mandalas como prova dessa manifestação. Observando sua aparição nos povos  Nativos Americanos, Indianos, Budistas, Asiáticos em toda civilização.
+
+Também analisou a manifestação do inconsciente em artes de grandes artistas e interpretou muitos símbolos e sonhos através destas imagens.
+
+Jung acreditava que "a criação de alguma coisa não era um trabalho do intelectuo,  mas por jogar instintivamente da necessidade inerente. A mente criativa joga com os objetos que ela ama." # TODO: revisar tradução.
+
+The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.
+
+[5]( http://www.brainyquote.com/quotes/authors/c/carl_jung.html#Ror7qCoxliAqA6Zq.99 )
