@@ -11,7 +11,7 @@ Ele é apenas um ferramental do contexto. Muito semelhante ao fisioterapeuta.
 Ninguém chega diretamente ao fisioterapeuta para descobrir que quebrou o braço.
 A pessoa vai ao médico e comprovado que o braço está quebrado, este o encaminha
 para um fisioterapeuta o acompanhar e para cuidar do caso.
-Propondo exercícios e atividades físicas para restauração e reestruturação da parte afetada.
+Este entra com propostas de exercícios e atividades físicas para restauração e reestruturação da parte afetada.
 A analogia acima tenta dizer que a arte faz um trabalho muito semelhante na arteterapia a
 o que a atividade física para quem está tratando com um fisioterapeuta.
 
@@ -25,12 +25,43 @@ A arteterapia é ampla e pode se manifestar através de diversas linguagens como
 música, teatro, artes plásticas. Neste estudo foi explorado artes plásticas,
 especificamente as mandalas como ferramenta arteterapêutica.
 
-Todas as linguagens possuem suas especialidades assim como a mandala é uma
-especialidade dentro das artes plásticas, existem muitas outras atividades e
-modelos de trabalho através do ferramental disponível de cada linguagem.
+Todas as linguagens estão enraízadas na arte. No entanto, a interação em cada linguagem específica é muito afetada pela abordagem e os materiais do contexto. Por exemplo, a experiência de trabalhar entre pintar com giz de cera ou tinta a óleo é tão gritante quanto a diferença entre cantar e dançar. As pessoas tendem a optar pelos materiais que criam mais confidência e habilidade para desenvolver.
+
+Alguns materiais exigem mais técnica para ter resultados gratificantes enquanto outros são mais fáceis de se trabalhar e podem ter resultados mais abstratos.
+
+    //FIXME ADICIONAR REFERENCIA AQUI
+
+Uma atividade mais sensível como uma tinta e pincél exige mais foco e atenção enquanto uma modelagem com barro pode envolver mais energia para amassar e bater a argila.
+
+Em uma sessão de arteterapia em grupo, geralmente se propõe as atividades divididas em 3 momentos: a sensibilização, o desenvolver das atividades e a partilha das experiências.
+
+A sensibilização é um momento importante para remover qualquer barreira entre os participantes da sessão, trazendo uma abertura relaxante e descontraída para permitir que todos do grupo se sintam a vontade uns com os outros e explorem sem receios as atividades na sequência.
+
+Cada atividade e linguagem interage com a pessoa cobrindo vários aspectos da saúde psicológica. A sensibilização se torna um momento importante para quebrar o clima que ela traz de fora. Trazendo uns minutos para se sentir no grupo e conseguir se focar na sessão.
+
+A sensibilidade criada neste primeiro momento é importante para ajudar a pessoa a se focar nas próximas atividades. Esquecer o mundo e os compromissos da vida e despertar o artista que existe dentro dela.
+
+Quando o participante se encontra com os materiais e adquire habilidade, ele começa a explorar a vida que existe dentro da sua mente. E consegue transpor isso em arte.
+
+Oscar Wilde já dizia:
+
+    A arte é o mais intenso modo de individualismo que o mundo conheceu.
+
+    Art is the most intense mode of individualism that the world has known. [12]( http://www.brainyquote.com/search_results.html#ZBD0JEUBAC1b3HTr.99)
+
+E esse modo individualista transposto na arte é também uma transposição de imagens do inconsciente. Jean Cocteau disse que a "arte é o casamento do consciente com o inconsciente."
+
+    "Art is a marriage of the conscious and the unconscious. [13](http://www.brainyquote.com/quotes/keywords/unconscious.html#1K0Q6PilagECVxrL.99)
+
+E esse casamento do consciente com inconsciente cria um relacionamento forte e enraizado da pessoa consigo mesma. Aprendendo a conhecer e dominar sua própria mente.
+
+Entendendo e reconhecendo suas fraquezas. Aprendendo a potencializar suas virtudes. Carl Jung disse: "A tarefa do homem é tornar-se consciente dos conteúdos que lhe pressionam para cima a partir do inconsciente."
+
+    Man's task is to become conscious of the contents that press upward from the unconscious. [14](http://www.brainyquote.com/quotes/keywords/unconscious.html#1K0Q6PilagECVxrL.99)
 
 
 ## As artes plásticas
+
 
 Segundo o wikipédia, as artes plásticas referem-se a toda e qualquer atividades
 que revele uma concepção estética e poética em um determinado momento histórico. [2](https://pt.wikipedia.org/wiki/Artes_pl%C3%A1sticas)
